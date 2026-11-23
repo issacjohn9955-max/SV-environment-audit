@@ -1,0 +1,546 @@
+id	vcf_sample_id	breed	population_code	sources	genotype_type	vcf_header_status	observed_vcf_header_ids	previous_registry_breed	inventory_vs_previous	breed_label_exact_match	origin_review_breed	breed_crosswalk_evidence	origin_tier	coordinate_review_status	listed_lon	listed_lat	climate_complete	bio3	bio15	bio18	wind	srad	individual_environment_review
+40__yuan__SRR8362937	40__yuan__SRR8362937	锡兰原鸡	370_锡兰原鸡	370_new	Jasmine SV	exact_single_sample	40__yuan__SRR8362937	锡兰原鸡	both	True	锡兰原鸡		D	hold_or_exclude									no_complete_candidate_climate
+40__yuan__SRR8362938	40__yuan__SRR8362938	锡兰原鸡	370_锡兰原鸡	370_new	Jasmine SV	exact_single_sample	40__yuan__SRR8362938	锡兰原鸡	both	True	锡兰原鸡		D	hold_or_exclude									no_complete_candidate_climate
+40__yuan__SRR8362939	40__yuan__SRR8362939	锡兰原鸡	370_锡兰原鸡	370_new	Jasmine SV	exact_single_sample	40__yuan__SRR8362939	锡兰原鸡	both	True	锡兰原鸡		D	hold_or_exclude									no_complete_candidate_climate
+40__yuan__SRR8362940	40__yuan__SRR8362940	绿原鸡	370_绿原鸡	370_new	Jasmine SV	exact_single_sample	40__yuan__SRR8362940	绿原鸡	both	True	绿原鸡		D	hold_or_exclude									no_complete_candidate_climate
+40__yuan__SRR8362948	40__yuan__SRR8362948	锡兰原鸡	370_锡兰原鸡	370_new	Jasmine SV	exact_single_sample	40__yuan__SRR8362948	锡兰原鸡	both	True	锡兰原鸡		D	hold_or_exclude									no_complete_candidate_climate
+40__yuan__SRR8362949	40__yuan__SRR8362949	红原鸡	370_红原鸡	370_new	Jasmine SV	exact_single_sample	40__yuan__SRR8362949	红原鸡	both	True	红原鸡		D	hold_or_exclude									no_complete_candidate_climate
+40__yuan__SRR8362951	40__yuan__SRR8362951	灰原鸡	370_灰原鸡	370_new	Jasmine SV	exact_single_sample	40__yuan__SRR8362951	灰原鸡	both	True	灰原鸡		D	hold_or_exclude									no_complete_candidate_climate
+40__yuan__SRR8362953	40__yuan__SRR8362953	锡兰原鸡	370_锡兰原鸡	370_new	Jasmine SV	exact_single_sample	40__yuan__SRR8362953	锡兰原鸡	both	True	锡兰原鸡		D	hold_or_exclude									no_complete_candidate_climate
+BYR43	BYR43	AA肉鸡	370_AA肉鸡	370_new;XLC204	Jasmine SV	exact_single_sample	BYR43	AA肉鸡	both	True	AA肉鸡		E	hold_or_exclude									commercial_exclude
+BYR74	BYR74	AA肉鸡	370_AA肉鸡	370_new;XLC204	Jasmine SV	exact_single_sample	BYR74	AA肉鸡	both	True	AA肉鸡		E	hold_or_exclude									commercial_exclude
+BYR75	BYR75	AA肉鸡	370_AA肉鸡	370_new;XLC204	Jasmine SV	exact_single_sample	BYR75	AA肉鸡	both	True	AA肉鸡		E	hold_or_exclude									commercial_exclude
+BYR79	BYR79	AA肉鸡	370_AA肉鸡	370_new;XLC204	Jasmine SV	exact_single_sample	BYR79	AA肉鸡	both	True	AA肉鸡		E	hold_or_exclude									commercial_exclude
+BYR80	BYR80	AA肉鸡	370_AA肉鸡	370_new;XLC204	Jasmine SV	exact_single_sample	BYR80	AA肉鸡	both	True	AA肉鸡		E	hold_or_exclude									commercial_exclude
+BYR88	BYR88	AA肉鸡	370_AA肉鸡	370_new;XLC204	Jasmine SV	exact_single_sample	BYR88	AA肉鸡	both	True	AA肉鸡		E	hold_or_exclude									commercial_exclude
+BYR89	BYR89	AA肉鸡	370_AA肉鸡	370_new;XLC204	Jasmine SV	exact_single_sample	BYR89	AA肉鸡	both	True	AA肉鸡		E	hold_or_exclude									commercial_exclude
+BYR90	BYR90	AA肉鸡	370_AA肉鸡	370_new;XLC204	Jasmine SV	exact_single_sample	BYR90	AA肉鸡	both	True	AA肉鸡		E	hold_or_exclude									commercial_exclude
+BYR91	BYR91	AA肉鸡	370_AA肉鸡	370_new;XLC204	Jasmine SV	exact_single_sample	BYR91	AA肉鸡	both	True	AA肉鸡		E	hold_or_exclude									commercial_exclude
+BYRJ76	BYRJ76	AA肉鸡	370_AA肉鸡	370_new;XLC204	Jasmine SV	exact_single_sample	BYRJ76	AA肉鸡	both	True	AA肉鸡		E	hold_or_exclude									commercial_exclude
+BYRJ77	BYRJ77	AA肉鸡	370_AA肉鸡	370_new;XLC204	Jasmine SV	exact_single_sample	BYRJ77	AA肉鸡	both	True	AA肉鸡		E	hold_or_exclude									commercial_exclude
+CRR1884177	CRR1884177	AA肉鸡	370_AA肉鸡	370_new	Jasmine SV	exact_single_sample	CRR1884177	AA肉鸡	both	True	AA肉鸡		E	hold_or_exclude									commercial_exclude
+CRR1884178	CRR1884178	AA肉鸡	370_AA肉鸡	370_new	Jasmine SV	exact_single_sample	CRR1884178	AA肉鸡	both	True	AA肉鸡		E	hold_or_exclude									commercial_exclude
+CRR1884179	CRR1884179	AA肉鸡	370_AA肉鸡	370_new	Jasmine SV	exact_single_sample	CRR1884179	AA肉鸡	both	True	AA肉鸡		E	hold_or_exclude									commercial_exclude
+CRR1884180	CRR1884180	AA肉鸡	370_AA肉鸡	370_new	Jasmine SV	exact_single_sample	CRR1884180	AA肉鸡	both	True	AA肉鸡		E	hold_or_exclude									commercial_exclude
+CRR1884181	CRR1884181	AA肉鸡	370_AA肉鸡	370_new	Jasmine SV	exact_single_sample	CRR1884181	AA肉鸡	both	True	AA肉鸡		E	hold_or_exclude									commercial_exclude
+CRR1884182	CRR1884182	AA肉鸡	370_AA肉鸡	370_new	Jasmine SV	exact_single_sample	CRR1884182	AA肉鸡	both	True	AA肉鸡		E	hold_or_exclude									commercial_exclude
+CRR1884183	CRR1884183	AA肉鸡	370_AA肉鸡	370_new	Jasmine SV	exact_single_sample	CRR1884183	AA肉鸡	both	True	AA肉鸡		E	hold_or_exclude									commercial_exclude
+CRR1884184	CRR1884184	AA肉鸡	370_AA肉鸡	370_new	Jasmine SV	exact_single_sample	CRR1884184	AA肉鸡	both	True	AA肉鸡		E	hold_or_exclude									commercial_exclude
+CRR1884185	CRR1884185	AA肉鸡	370_AA肉鸡	370_new	Jasmine SV	exact_single_sample	CRR1884185	AA肉鸡	both	True	AA肉鸡		E	hold_or_exclude									commercial_exclude
+CRR1884186	CRR1884186	AA肉鸡	370_AA肉鸡	370_new	Jasmine SV	exact_single_sample	CRR1884186	AA肉鸡	both	True	AA肉鸡		E	hold_or_exclude									commercial_exclude
+CRR1884187	CRR1884187	AA肉鸡	370_AA肉鸡	370_new	Jasmine SV	exact_single_sample	CRR1884187	AA肉鸡	both	True	AA肉鸡		E	hold_or_exclude									commercial_exclude
+CRR1884188	CRR1884188	AA肉鸡	370_AA肉鸡	370_new	Jasmine SV	exact_single_sample	CRR1884188	AA肉鸡	both	True	AA肉鸡		E	hold_or_exclude									commercial_exclude
+CRR1884189	CRR1884189	AA肉鸡	370_AA肉鸡	370_new	Jasmine SV	exact_single_sample	CRR1884189	AA肉鸡	both	True	AA肉鸡		E	hold_or_exclude									commercial_exclude
+CRR1884190	CRR1884190	AA肉鸡	370_AA肉鸡	370_new	Jasmine SV	exact_single_sample	CRR1884190	AA肉鸡	both	True	AA肉鸡		E	hold_or_exclude									commercial_exclude
+CRR1884191	CRR1884191	AA肉鸡	370_AA肉鸡	370_new	Jasmine SV	exact_single_sample	CRR1884191	AA肉鸡	both	True	AA肉鸡		E	hold_or_exclude									commercial_exclude
+CRR1884192	CRR1884192	AA肉鸡	370_AA肉鸡	370_new	Jasmine SV	exact_single_sample	CRR1884192	AA肉鸡	both	True	AA肉鸡		E	hold_or_exclude									commercial_exclude
+CRR1884193	CRR1884193	AA肉鸡	370_AA肉鸡	370_new	Jasmine SV	exact_single_sample	CRR1884193	AA肉鸡	both	True	AA肉鸡		E	hold_or_exclude									commercial_exclude
+CRR1884194	CRR1884194	AA肉鸡	370_AA肉鸡	370_new	Jasmine SV	exact_single_sample	CRR1884194	AA肉鸡	both	True	AA肉鸡		E	hold_or_exclude									commercial_exclude
+CRR1884195	CRR1884195	AA肉鸡	370_AA肉鸡	370_new	Jasmine SV	exact_single_sample	CRR1884195	AA肉鸡	both	True	AA肉鸡		E	hold_or_exclude									commercial_exclude
+CRR1884196	CRR1884196	AA肉鸡	370_AA肉鸡	370_new	Jasmine SV	exact_single_sample	CRR1884196	AA肉鸡	both	True	AA肉鸡		E	hold_or_exclude									commercial_exclude
+CRR1884197	CRR1884197	AA肉鸡	370_AA肉鸡	370_new	Jasmine SV	exact_single_sample	CRR1884197	AA肉鸡	both	True	AA肉鸡		E	hold_or_exclude									commercial_exclude
+CRR1884198	CRR1884198	AA肉鸡	370_AA肉鸡	370_new	Jasmine SV	exact_single_sample	CRR1884198	AA肉鸡	both	True	AA肉鸡		E	hold_or_exclude									commercial_exclude
+CRR1884199	CRR1884199	AA肉鸡	370_AA肉鸡	370_new	Jasmine SV	exact_single_sample	CRR1884199	AA肉鸡	both	True	AA肉鸡		E	hold_or_exclude									commercial_exclude
+CRR1884200	CRR1884200	AA肉鸡	370_AA肉鸡	370_new	Jasmine SV	exact_single_sample	CRR1884200	AA肉鸡	both	True	AA肉鸡		E	hold_or_exclude									commercial_exclude
+CRR2303436	CRR2303436	LN（沿用原代码）	LN	firstCRR	Jasmine SV	exact_single_sample	CRR2303436	LN（沿用原代码）	both	True	泸宁鸡	附录 B 名称归并	B	representative_point_review_needed_per_batch			False						identity_conflict_hold
+CRR2303437	CRR2303437	LN（沿用原代码）	LN	firstCRR	Jasmine SV	exact_single_sample	CRR2303437	LN（沿用原代码）	both	True	泸宁鸡	附录 B 名称归并	B	representative_point_review_needed_per_batch			False						identity_conflict_hold
+CRR2303438	CRR2303438	LN（沿用原代码）	LN	firstCRR	Jasmine SV	exact_single_sample	CRR2303438	LN（沿用原代码）	both	True	泸宁鸡	附录 B 名称归并	B	representative_point_review_needed_per_batch			False						identity_conflict_hold
+CRR2303439	CRR2303439	LN（沿用原代码）	LN	firstCRR	Jasmine SV	exact_single_sample	CRR2303439	LN（沿用原代码）	both	True	泸宁鸡	附录 B 名称归并	B	representative_point_review_needed_per_batch			False						identity_conflict_hold
+CRR2303453	CRR2303453	品种待确认（跨目录重复）	UNRESOLVED	firstCRR	Jasmine SV	exact_single_sample	CRR2303453	品种待确认（跨目录重复）	both	True	品种待确认（跨目录重复）		U	hold_or_exclude			False						identity_conflict_hold
+CRR2303459	CRR2303459	品种待确认（跨目录重复）	UNRESOLVED	firstCRR	Jasmine SV	exact_single_sample	CRR2303459	品种待确认（跨目录重复）	both	True	品种待确认（跨目录重复）		U	hold_or_exclude			False						identity_conflict_hold
+CRR2303460	CRR2303460	品种待确认（跨目录重复）	UNRESOLVED	firstCRR	Jasmine SV	exact_single_sample	CRR2303460	品种待确认（跨目录重复）	both	True	品种待确认（跨目录重复）		U	hold_or_exclude			False						identity_conflict_hold
+CRR2303461	CRR2303461	品种待确认（跨目录重复）	UNRESOLVED	firstCRR	Jasmine SV	exact_single_sample	CRR2303461	品种待确认（跨目录重复）	both	True	品种待确认（跨目录重复）		U	hold_or_exclude			False						identity_conflict_hold
+CRR2303462	CRR2303462	品种待确认（跨目录重复）	UNRESOLVED	firstCRR	Jasmine SV	exact_single_sample	CRR2303462	品种待确认（跨目录重复）	both	True	品种待确认（跨目录重复）		U	hold_or_exclude			False						identity_conflict_hold
+CRR2303463	CRR2303463	品种待确认（跨目录重复）	UNRESOLVED	firstCRR	Jasmine SV	exact_single_sample	CRR2303463	品种待确认（跨目录重复）	both	True	品种待确认（跨目录重复）		U	hold_or_exclude			False						identity_conflict_hold
+CRR2303572	CRR2303572	静原鸡	JY	secondCRR	Jasmine SV	exact_single_sample	CRR2303572	静原鸡	both	True	静原鸡		D	hold_or_exclude									no_complete_candidate_climate
+CRR2303573	CRR2303573	静原鸡	JY	secondCRR	Jasmine SV	exact_single_sample	CRR2303573	静原鸡	both	True	静原鸡		D	hold_or_exclude									no_complete_candidate_climate
+CRR2303574	CRR2303574	静原鸡	JY	secondCRR	Jasmine SV	exact_single_sample	CRR2303574	静原鸡	both	True	静原鸡		D	hold_or_exclude									no_complete_candidate_climate
+CRR2303575	CRR2303575	静原鸡	JY	secondCRR	Jasmine SV	exact_single_sample	CRR2303575	静原鸡	both	True	静原鸡		D	hold_or_exclude									no_complete_candidate_climate
+CRR2303576	CRR2303576	静原鸡	JY	secondCRR	Jasmine SV	exact_single_sample	CRR2303576	静原鸡	both	True	静原鸡		D	hold_or_exclude									no_complete_candidate_climate
+CRR2303577	CRR2303577	静原鸡	JY	secondCRR	Jasmine SV	exact_single_sample	CRR2303577	静原鸡	both	True	静原鸡		D	hold_or_exclude									no_complete_candidate_climate
+CRR2303578	CRR2303578	静原鸡	JY	secondCRR	Jasmine SV	exact_single_sample	CRR2303578	静原鸡	both	True	静原鸡		D	hold_or_exclude									no_complete_candidate_climate
+CRR2303579	CRR2303579	静原鸡	JY	secondCRR	Jasmine SV	exact_single_sample	CRR2303579	静原鸡	both	True	静原鸡		D	hold_or_exclude									no_complete_candidate_climate
+CRR2303580	CRR2303580	静原鸡	JY	secondCRR	Jasmine SV	exact_single_sample	CRR2303580	静原鸡	both	True	静原鸡		D	hold_or_exclude									no_complete_candidate_climate
+CRR2303581	CRR2303581	静原鸡	JY	secondCRR	Jasmine SV	exact_single_sample	CRR2303581	静原鸡	both	True	静原鸡		D	hold_or_exclude									no_complete_candidate_climate
+CRR2303582	CRR2303582	静原鸡	JY	secondCRR	Jasmine SV	exact_single_sample	CRR2303582	静原鸡	both	True	静原鸡		D	hold_or_exclude									no_complete_candidate_climate
+CRR2303583	CRR2303583	静原鸡	JY	secondCRR	Jasmine SV	exact_single_sample	CRR2303583	静原鸡	both	True	静原鸡		D	hold_or_exclude									no_complete_candidate_climate
+CRR2303584	CRR2303584	静原鸡	JY	secondCRR	Jasmine SV	exact_single_sample	CRR2303584	静原鸡	both	True	静原鸡		D	hold_or_exclude									no_complete_candidate_climate
+CRR2303585	CRR2303585	静原鸡	JY	secondCRR	Jasmine SV	exact_single_sample	CRR2303585	静原鸡	both	True	静原鸡		D	hold_or_exclude									no_complete_candidate_climate
+CRR2303586	CRR2303586	静原鸡	JY	secondCRR	Jasmine SV	exact_single_sample	CRR2303586	静原鸡	both	True	静原鸡		D	hold_or_exclude									no_complete_candidate_climate
+CRR2303587	CRR2303587	静原鸡	JY	secondCRR	Jasmine SV	exact_single_sample	CRR2303587	静原鸡	both	True	静原鸡		D	hold_or_exclude									no_complete_candidate_climate
+CRR2303588	CRR2303588	静原鸡	JY	secondCRR	Jasmine SV	exact_single_sample	CRR2303588	静原鸡	both	True	静原鸡		D	hold_or_exclude									no_complete_candidate_climate
+CRR2303589	CRR2303589	静原鸡	JY	secondCRR	Jasmine SV	exact_single_sample	CRR2303589	静原鸡	both	True	静原鸡		D	hold_or_exclude									no_complete_candidate_climate
+CRR2303590	CRR2303590	静原鸡	JY	secondCRR	Jasmine SV	exact_single_sample	CRR2303590	静原鸡	both	True	静原鸡		D	hold_or_exclude									no_complete_candidate_climate
+D-m3_I116	D-m3_I116	鲁西斗鸡	LX	caibo_new31	Jasmine SV	exact_single_sample	D-m3_I116		left_only	False	鲁西斗鸡		C	hold_or_exclude									no_complete_candidate_climate
+D-m4_L4_I117	D-m4_L4_I117	鲁西斗鸡	LX	caibo_new31	Jasmine SV	exact_single_sample	D-m4_L4_I117		left_only	False	鲁西斗鸡		C	hold_or_exclude									no_complete_candidate_climate
+DB10	DB10	Cobb	370_Cobb	370_new	Jasmine SV	exact_single_sample	DB10	Cobb	both	True	Cobb		E	hold_or_exclude									commercial_exclude
+DB11	DB11	Cobb	370_Cobb	370_new	Jasmine SV	exact_single_sample	DB11	Cobb	both	True	Cobb		E	hold_or_exclude									commercial_exclude
+DB13	DB13	Cobb	370_Cobb	370_new	Jasmine SV	exact_single_sample	DB13	Cobb	both	True	Cobb		E	hold_or_exclude									commercial_exclude
+DB17	DB17	Cobb	370_Cobb	370_new	Jasmine SV	exact_single_sample	DB17	Cobb	both	True	Cobb		E	hold_or_exclude									commercial_exclude
+DB24	DB24	Cobb	370_Cobb	370_new	Jasmine SV	exact_single_sample	DB24	Cobb	both	True	Cobb		E	hold_or_exclude									commercial_exclude
+DB41	DB41	Cobb	370_Cobb	370_new	Jasmine SV	exact_single_sample	DB41	Cobb	both	True	Cobb		E	hold_or_exclude									commercial_exclude
+DB42	DB42	Cobb	370_Cobb	370_new	Jasmine SV	exact_single_sample	DB42	Cobb	both	True	Cobb		E	hold_or_exclude									commercial_exclude
+DB44	DB44	Cobb	370_Cobb	370_new	Jasmine SV	exact_single_sample	DB44	Cobb	both	True	Cobb		E	hold_or_exclude									commercial_exclude
+DB45	DB45	Cobb	370_Cobb	370_new	Jasmine SV	exact_single_sample	DB45	Cobb	both	True	Cobb		E	hold_or_exclude									commercial_exclude
+DB46	DB46	Cobb	370_Cobb	370_new	Jasmine SV	exact_single_sample	DB46	Cobb	both	True	Cobb		E	hold_or_exclude									commercial_exclude
+DB47	DB47	Cobb	370_Cobb	370_new	Jasmine SV	exact_single_sample	DB47	Cobb	both	True	Cobb		E	hold_or_exclude									commercial_exclude
+DB49	DB49	Cobb	370_Cobb	370_new	Jasmine SV	exact_single_sample	DB49	Cobb	both	True	Cobb		E	hold_or_exclude									commercial_exclude
+DB50	DB50	Cobb	370_Cobb	370_new	Jasmine SV	exact_single_sample	DB50	Cobb	both	True	Cobb		E	hold_or_exclude									commercial_exclude
+DB53	DB53	Cobb	370_Cobb	370_new	Jasmine SV	exact_single_sample	DB53	Cobb	both	True	Cobb		E	hold_or_exclude									commercial_exclude
+DB54	DB54	Cobb	370_Cobb	370_new	Jasmine SV	exact_single_sample	DB54	Cobb	both	True	Cobb		E	hold_or_exclude									commercial_exclude
+DB6	DB6	Cobb	370_Cobb	370_new	Jasmine SV	exact_single_sample	DB6	Cobb	both	True	Cobb		E	hold_or_exclude									commercial_exclude
+DB7	DB7	Cobb	370_Cobb	370_new	Jasmine SV	exact_single_sample	DB7	Cobb	both	True	Cobb		E	hold_or_exclude									commercial_exclude
+DB8	DB8	Cobb	370_Cobb	370_new	Jasmine SV	exact_single_sample	DB8	Cobb	both	True	Cobb		E	hold_or_exclude									commercial_exclude
+DRR089959	DRR089959	绿原鸡	370_绿原鸡	370_new	Jasmine SV	exact_single_sample	DRR089959	绿原鸡	both	True	绿原鸡		D	hold_or_exclude									no_complete_candidate_climate
+DRR089960	DRR089960	绿原鸡	370_绿原鸡	370_new	Jasmine SV	exact_single_sample	DRR089960	绿原鸡	both	True	绿原鸡		D	hold_or_exclude									no_complete_candidate_climate
+DRR089961	DRR089961	绿原鸡	370_绿原鸡	370_new	Jasmine SV	exact_single_sample	DRR089961	绿原鸡	both	True	绿原鸡		D	hold_or_exclude									no_complete_candidate_climate
+DRR089962	DRR089962	绿原鸡	370_绿原鸡	370_new	Jasmine SV	exact_single_sample	DRR089962	绿原鸡	both	True	绿原鸡		D	hold_or_exclude									no_complete_candidate_climate
+DRR089963	DRR089963	绿原鸡	370_绿原鸡	370_new	Jasmine SV	exact_single_sample	DRR089963	绿原鸡	both	True	绿原鸡		D	hold_or_exclude									no_complete_candidate_climate
+DRR089964	DRR089964	绿原鸡	370_绿原鸡	370_new	Jasmine SV	exact_single_sample	DRR089964	绿原鸡	both	True	绿原鸡		D	hold_or_exclude									no_complete_candidate_climate
+DRR089965	DRR089965	绿原鸡	370_绿原鸡	370_new	Jasmine SV	exact_single_sample	DRR089965	绿原鸡	both	True	绿原鸡		D	hold_or_exclude									no_complete_candidate_climate
+DRR089966	DRR089966	绿原鸡	370_绿原鸡	370_new	Jasmine SV	exact_single_sample	DRR089966	绿原鸡	both	True	绿原鸡		D	hold_or_exclude									no_complete_candidate_climate
+DRR089967	DRR089967	绿原鸡	370_绿原鸡	370_new	Jasmine SV	exact_single_sample	DRR089967	绿原鸡	both	True	绿原鸡		D	hold_or_exclude									no_complete_candidate_climate
+DRR089968	DRR089968	红原鸡	370_红原鸡	370_new	Jasmine SV	exact_single_sample	DRR089968	红原鸡	both	True	红原鸡		D	hold_or_exclude									no_complete_candidate_climate
+DRR089969	DRR089969	红原鸡	370_红原鸡	370_new	Jasmine SV	exact_single_sample	DRR089969	红原鸡	both	True	红原鸡		D	hold_or_exclude									no_complete_candidate_climate
+DRR089970	DRR089970	红原鸡	370_红原鸡	370_new	Jasmine SV	exact_single_sample	DRR089970	红原鸡	both	True	红原鸡		D	hold_or_exclude									no_complete_candidate_climate
+DRR089971	DRR089971	红原鸡	370_红原鸡	370_new	Jasmine SV	exact_single_sample	DRR089971	红原鸡	both	True	红原鸡		D	hold_or_exclude									no_complete_candidate_climate
+DRR089972	DRR089972	红原鸡	370_红原鸡	370_new	Jasmine SV	exact_single_sample	DRR089972	红原鸡	both	True	红原鸡		D	hold_or_exclude									no_complete_candidate_climate
+ERR5633123	ERR5633123	RIR（沿用原代码）	RIR	firstCRR	Jasmine SV	exact_single_sample	ERR5633123	RIR（沿用原代码）	both	True	洛岛红鸡	附录 B 名称归并	B	representative_point_review_needed_per_batch			False						library_type_hold
+ERR5633124	ERR5633124	RIR（沿用原代码）	RIR	firstCRR	Jasmine SV	exact_single_sample	ERR5633124	RIR（沿用原代码）	both	True	洛岛红鸡	附录 B 名称归并	B	representative_point_review_needed_per_batch			False						library_type_hold
+ERR5633125	ERR5633125	RIR（沿用原代码）	RIR	firstCRR	Jasmine SV	exact_single_sample	ERR5633125	RIR（沿用原代码）	both	True	洛岛红鸡	附录 B 名称归并	B	representative_point_review_needed_per_batch			False						library_type_hold
+ERR5633126	ERR5633126	RIR（沿用原代码）	RIR	firstCRR	Jasmine SV	exact_single_sample	ERR5633126	RIR（沿用原代码）	both	True	洛岛红鸡	附录 B 名称归并	B	representative_point_review_needed_per_batch			False						library_type_hold
+ERR5633127	ERR5633127	RIR（沿用原代码）	RIR	firstCRR	Jasmine SV	exact_single_sample	ERR5633127	RIR（沿用原代码）	both	True	洛岛红鸡	附录 B 名称归并	B	representative_point_review_needed_per_batch			False						library_type_hold
+ERR5633128	ERR5633128	RIR（沿用原代码）	RIR	firstCRR	Jasmine SV	exact_single_sample	ERR5633128	RIR（沿用原代码）	both	True	洛岛红鸡	附录 B 名称归并	B	representative_point_review_needed_per_batch			False						library_type_hold
+ERR5633129	ERR5633129	RIR（沿用原代码）	RIR	firstCRR	Jasmine SV	exact_single_sample	ERR5633129	RIR（沿用原代码）	both	True	洛岛红鸡	附录 B 名称归并	B	representative_point_review_needed_per_batch			False						library_type_hold
+ERR5633130	ERR5633130	RIR（沿用原代码）	RIR	firstCRR	Jasmine SV	exact_single_sample	ERR5633130	RIR（沿用原代码）	both	True	洛岛红鸡	附录 B 名称归并	B	representative_point_review_needed_per_batch			False						library_type_hold
+ERR5633131	ERR5633131	RIR（沿用原代码）	RIR	firstCRR	Jasmine SV	exact_single_sample	ERR5633131	RIR（沿用原代码）	both	True	洛岛红鸡	附录 B 名称归并	B	representative_point_review_needed_per_batch			False						library_type_hold
+ERR5633132	ERR5633132	RIR（沿用原代码）	RIR	firstCRR	Jasmine SV	exact_single_sample	ERR5633132	RIR（沿用原代码）	both	True	洛岛红鸡	附录 B 名称归并	B	representative_point_review_needed_per_batch			False						library_type_hold
+ERR5633133	ERR5633133	RIR（沿用原代码）	RIR	firstCRR	Jasmine SV	exact_single_sample	ERR5633133	RIR（沿用原代码）	both	True	洛岛红鸡	附录 B 名称归并	B	representative_point_review_needed_per_batch			False						library_type_hold
+ERR5633134	ERR5633134	RIR（沿用原代码）	RIR	firstCRR	Jasmine SV	exact_single_sample	ERR5633134	RIR（沿用原代码）	both	True	洛岛红鸡	附录 B 名称归并	B	representative_point_review_needed_per_batch			False						library_type_hold
+ERR5633135	ERR5633135	RIR（沿用原代码）	RIR	firstCRR	Jasmine SV	exact_single_sample	ERR5633135	RIR（沿用原代码）	both	True	洛岛红鸡	附录 B 名称归并	B	representative_point_review_needed_per_batch			False						library_type_hold
+ERR5633136	ERR5633136	RIR（沿用原代码）	RIR	firstCRR	Jasmine SV	exact_single_sample	ERR5633136	RIR（沿用原代码）	both	True	洛岛红鸡	附录 B 名称归并	B	representative_point_review_needed_per_batch			False						library_type_hold
+ERR5633137	ERR5633137	RIR（沿用原代码）	RIR	firstCRR	Jasmine SV	exact_single_sample	ERR5633137	RIR（沿用原代码）	both	True	洛岛红鸡	附录 B 名称归并	B	representative_point_review_needed_per_batch			False						library_type_hold
+ERR5633138	ERR5633138	RIR（沿用原代码）	RIR	firstCRR	Jasmine SV	exact_single_sample	ERR5633138	RIR（沿用原代码）	both	True	洛岛红鸡	附录 B 名称归并	B	representative_point_review_needed_per_batch			False						library_type_hold
+GALG1	GALG1	广西原鸡	370_广西原鸡	370_new	Jasmine SV	exact_single_sample	GALG1	广西原鸡	both	True	红原鸡	附录 B 仅按类群索引，地理按批次核实	D	hold_or_exclude									no_complete_candidate_climate
+GALG3	GALG3	广西原鸡	370_广西原鸡	370_new	Jasmine SV	exact_single_sample	GALG3	广西原鸡	both	True	红原鸡	附录 B 仅按类群索引，地理按批次核实	D	hold_or_exclude									no_complete_candidate_climate
+GALG4	GALG4	广西原鸡	370_广西原鸡	370_new	Jasmine SV	exact_single_sample	GALG4	广西原鸡	both	True	红原鸡	附录 B 仅按类群索引，地理按批次核实	D	hold_or_exclude									no_complete_candidate_climate
+GALG5	GALG5	广西原鸡	370_广西原鸡	370_new	Jasmine SV	exact_single_sample	GALG5	广西原鸡	both	True	红原鸡	附录 B 仅按类群索引，地理按批次核实	D	hold_or_exclude									no_complete_candidate_climate
+GALW1	GALW1	广西原鸡	370_广西原鸡	370_new	Jasmine SV	exact_single_sample	GALW1	广西原鸡	both	True	红原鸡	附录 B 仅按类群索引，地理按批次核实	D	hold_or_exclude									no_complete_candidate_climate
+GALW2	GALW2	广西原鸡	370_广西原鸡	370_new	Jasmine SV	exact_single_sample	GALW2	广西原鸡	both	True	红原鸡	附录 B 仅按类群索引，地理按批次核实	D	hold_or_exclude									no_complete_candidate_climate
+GALW3	GALW3	广西原鸡	370_广西原鸡	370_new	Jasmine SV	exact_single_sample	GALW3	广西原鸡	both	True	红原鸡	附录 B 仅按类群索引，地理按批次核实	D	hold_or_exclude									no_complete_candidate_climate
+GALW6	GALW6	广西原鸡	370_广西原鸡	370_new	Jasmine SV	exact_single_sample	GALW6	广西原鸡	both	True	红原鸡	附录 B 仅按类群索引，地理按批次核实	D	hold_or_exclude									no_complete_candidate_climate
+GALW7	GALW7	广西原鸡	370_广西原鸡	370_new	Jasmine SV	exact_single_sample	GALW7	广西原鸡	both	True	红原鸡	附录 B 仅按类群索引，地理按批次核实	D	hold_or_exclude									no_complete_candidate_climate
+GALW8	GALW8	广西原鸡	370_广西原鸡	370_new	Jasmine SV	exact_single_sample	GALW8	广西原鸡	both	True	红原鸡	附录 B 仅按类群索引，地理按批次核实	D	hold_or_exclude									no_complete_candidate_climate
+HLH16	HLH16	海兰褐	XLC_HLH	XLC204	Jasmine SV	exact_single_sample	HLH16	海兰褐	both	True	海兰褐		E	hold_or_exclude									commercial_exclude
+HLH17	HLH17	海兰褐	XLC_HLH	XLC204	Jasmine SV	exact_single_sample	HLH17	海兰褐	both	True	海兰褐		E	hold_or_exclude									commercial_exclude
+HLH18	HLH18	海兰褐	XLC_HLH	XLC204	Jasmine SV	exact_single_sample	HLH18	海兰褐	both	True	海兰褐		E	hold_or_exclude									commercial_exclude
+HLH19	HLH19	海兰褐	XLC_HLH	XLC204	Jasmine SV	exact_single_sample	HLH19	海兰褐	both	True	海兰褐		E	hold_or_exclude									commercial_exclude
+HLH20	HLH20	海兰褐	XLC_HLH	XLC204	Jasmine SV	exact_single_sample	HLH20	海兰褐	both	True	海兰褐		E	hold_or_exclude									commercial_exclude
+HLH21	HLH21	海兰褐	XLC_HLH	XLC204	Jasmine SV	exact_single_sample	HLH21	海兰褐	both	True	海兰褐		E	hold_or_exclude									commercial_exclude
+HLH22	HLH22	海兰褐	XLC_HLH	XLC204	Jasmine SV	exact_single_sample	HLH22	海兰褐	both	True	海兰褐		E	hold_or_exclude									commercial_exclude
+HLH24	HLH24	海兰褐	XLC_HLH	XLC204	Jasmine SV	exact_single_sample	HLH24	海兰褐	both	True	海兰褐		E	hold_or_exclude									commercial_exclude
+HLH25	HLH25	海兰褐	XLC_HLH	XLC204	Jasmine SV	exact_single_sample	HLH25	海兰褐	both	True	海兰褐		E	hold_or_exclude									commercial_exclude
+HLH26	HLH26	海兰褐	XLC_HLH	XLC204	Jasmine SV	exact_single_sample	HLH26	海兰褐	both	True	海兰褐		E	hold_or_exclude									commercial_exclude
+HLH27	HLH27	海兰褐	XLC_HLH	XLC204	Jasmine SV	exact_single_sample	HLH27	海兰褐	both	True	海兰褐		E	hold_or_exclude									commercial_exclude
+HLH28	HLH28	海兰褐	XLC_HLH	XLC204	Jasmine SV	exact_single_sample	HLH28	海兰褐	both	True	海兰褐		E	hold_or_exclude									commercial_exclude
+HLH29	HLH29	海兰褐	XLC_HLH	XLC204	Jasmine SV	exact_single_sample	HLH29	海兰褐	both	True	海兰褐		E	hold_or_exclude									commercial_exclude
+HY61	HY61	茶花鸡	370_茶花鸡	370_new;XLC204	Jasmine SV	exact_single_sample	HY61	茶花鸡	both	True	茶花鸡		D	hold_or_exclude									no_complete_candidate_climate
+HY62	HY62	茶花鸡	370_茶花鸡	370_new;XLC204	Jasmine SV	exact_single_sample	HY62	茶花鸡	both	True	茶花鸡		D	hold_or_exclude									no_complete_candidate_climate
+HY64	HY64	茶花鸡	370_茶花鸡	370_new;XLC204	Jasmine SV	exact_single_sample	HY64	茶花鸡	both	True	茶花鸡		D	hold_or_exclude									no_complete_candidate_climate
+HY65	HY65	茶花鸡	370_茶花鸡	370_new;XLC204	Jasmine SV	exact_single_sample	HY65	茶花鸡	both	True	茶花鸡		D	hold_or_exclude									no_complete_candidate_climate
+HY66	HY66	茶花鸡	370_茶花鸡	370_new;XLC204	Jasmine SV	exact_single_sample	HY66	茶花鸡	both	True	茶花鸡		D	hold_or_exclude									no_complete_candidate_climate
+HY67	HY67	茶花鸡	370_茶花鸡	370_new;XLC204	Jasmine SV	exact_single_sample	HY67	茶花鸡	both	True	茶花鸡		D	hold_or_exclude									no_complete_candidate_climate
+HY71	HY71	茶花鸡	370_茶花鸡	370_new;XLC204	Jasmine SV	exact_single_sample	HY71	茶花鸡	both	True	茶花鸡		D	hold_or_exclude									no_complete_candidate_climate
+HY72	HY72	茶花鸡	370_茶花鸡	370_new;XLC204	Jasmine SV	exact_single_sample	HY72	茶花鸡	both	True	茶花鸡		D	hold_or_exclude									no_complete_candidate_climate
+HY73	HY73	茶花鸡	370_茶花鸡	370_new;XLC204	Jasmine SV	exact_single_sample	HY73	茶花鸡	both	True	茶花鸡		D	hold_or_exclude									no_complete_candidate_climate
+HY91	HY91	茶花鸡	370_茶花鸡	370_new;XLC204	Jasmine SV	exact_single_sample	HY91	茶花鸡	both	True	茶花鸡		D	hold_or_exclude									no_complete_candidate_climate
+HY92	HY92	茶花鸡	370_茶花鸡	370_new;XLC204	Jasmine SV	exact_single_sample	HY92	茶花鸡	both	True	茶花鸡		D	hold_or_exclude									no_complete_candidate_climate
+HY94	HY94	茶花鸡	370_茶花鸡	370_new;XLC204	Jasmine SV	exact_single_sample	HY94	茶花鸡	both	True	茶花鸡		D	hold_or_exclude									no_complete_candidate_climate
+HY97	HY97	茶花鸡	370_茶花鸡	370_new;XLC204	Jasmine SV	exact_single_sample	HY97	茶花鸡	both	True	茶花鸡		D	hold_or_exclude									no_complete_candidate_climate
+HY98	HY98	茶花鸡	370_茶花鸡	370_new;XLC204	Jasmine SV	exact_single_sample	HY98	茶花鸡	both	True	茶花鸡		D	hold_or_exclude									no_complete_candidate_climate
+HY99	HY99	茶花鸡	370_茶花鸡	370_new;XLC204	Jasmine SV	exact_single_sample	HY99	茶花鸡	both	True	茶花鸡		D	hold_or_exclude									no_complete_candidate_climate
+LH10	LH10	汶上芦花鸡	XLC_LH	XLC204	Jasmine SV	exact_single_sample	LH10	汶上芦花鸡	both	True	汶上芦花鸡		C	hold_or_exclude									no_complete_candidate_climate
+LH12	LH12	汶上芦花鸡	XLC_LH	XLC204	Jasmine SV	exact_single_sample	LH12	汶上芦花鸡	both	True	汶上芦花鸡		C	hold_or_exclude									no_complete_candidate_climate
+LH14	LH14	汶上芦花鸡	XLC_LH	XLC204	Jasmine SV	exact_single_sample	LH14	汶上芦花鸡	both	True	汶上芦花鸡		C	hold_or_exclude									no_complete_candidate_climate
+LH2	LH2	汶上芦花鸡	XLC_LH	XLC204	Jasmine SV	exact_single_sample	LH2	汶上芦花鸡	both	True	汶上芦花鸡		C	hold_or_exclude									no_complete_candidate_climate
+LH3	LH3	汶上芦花鸡	XLC_LH	XLC204	Jasmine SV	exact_single_sample	LH3	汶上芦花鸡	both	True	汶上芦花鸡		C	hold_or_exclude									no_complete_candidate_climate
+LH5	LH5	汶上芦花鸡	XLC_LH	XLC204	Jasmine SV	exact_single_sample	LH5	汶上芦花鸡	both	True	汶上芦花鸡		C	hold_or_exclude									no_complete_candidate_climate
+LH6	LH6	汶上芦花鸡	XLC_LH	XLC204	Jasmine SV	exact_single_sample	LH6	汶上芦花鸡	both	True	汶上芦花鸡		C	hold_or_exclude									no_complete_candidate_climate
+LH7	LH7	汶上芦花鸡	XLC_LH	XLC204	Jasmine SV	exact_single_sample	LH7	汶上芦花鸡	both	True	汶上芦花鸡		C	hold_or_exclude									no_complete_candidate_climate
+LH8	LH8	汶上芦花鸡	XLC_LH	XLC204	Jasmine SV	exact_single_sample	LH8	汶上芦花鸡	both	True	汶上芦花鸡		C	hold_or_exclude									no_complete_candidate_climate
+LH9	LH9	汶上芦花鸡	XLC_LH	XLC204	Jasmine SV	exact_single_sample	LH9	汶上芦花鸡	both	True	汶上芦花鸡		C	hold_or_exclude									no_complete_candidate_climate
+Laos-1	Laos-1	老挝斗鸡	LAOS	370_new	Jasmine SV	exact_single_sample	Laos-1	老挝斗鸡	both	True	老挝斗鸡		D	hold_or_exclude									no_complete_candidate_climate
+Laos-2	Laos-2	老挝斗鸡	LAOS	370_new	Jasmine SV	exact_single_sample	Laos-2	老挝斗鸡	both	True	老挝斗鸡		D	hold_or_exclude									no_complete_candidate_climate
+Laos-3	Laos-3	老挝斗鸡	LAOS	370_new	Jasmine SV	exact_single_sample	Laos-3	老挝斗鸡	both	True	老挝斗鸡		D	hold_or_exclude									no_complete_candidate_climate
+Laos-4	Laos-4	老挝斗鸡	LAOS	370_new	Jasmine SV	exact_single_sample	Laos-4	老挝斗鸡	both	True	老挝斗鸡		D	hold_or_exclude									no_complete_candidate_climate
+Laos-5	Laos-5	老挝斗鸡	LAOS	370_new	Jasmine SV	exact_single_sample	Laos-5	老挝斗鸡	both	True	老挝斗鸡		D	hold_or_exclude									no_complete_candidate_climate
+MH62	MH62	江丰麻黄鸡	XLC_MH	XLC204	Jasmine SV	exact_single_sample	MH62	江丰麻黄鸡	both	True	江丰麻黄鸡		E	hold_or_exclude									commercial_exclude
+MH63	MH63	江丰麻黄鸡	XLC_MH	XLC204	Jasmine SV	exact_single_sample	MH63	江丰麻黄鸡	both	True	江丰麻黄鸡		E	hold_or_exclude									commercial_exclude
+MH64	MH64	江丰麻黄鸡	XLC_MH	XLC204	Jasmine SV	exact_single_sample	MH64	江丰麻黄鸡	both	True	江丰麻黄鸡		E	hold_or_exclude									commercial_exclude
+MH65	MH65	江丰麻黄鸡	XLC_MH	XLC204	Jasmine SV	exact_single_sample	MH65	江丰麻黄鸡	both	True	江丰麻黄鸡		E	hold_or_exclude									commercial_exclude
+MH66	MH66	江丰麻黄鸡	XLC_MH	XLC204	Jasmine SV	exact_single_sample	MH66	江丰麻黄鸡	both	True	江丰麻黄鸡		E	hold_or_exclude									commercial_exclude
+MH67	MH67	江丰麻黄鸡	XLC_MH	XLC204	Jasmine SV	exact_single_sample	MH67	江丰麻黄鸡	both	True	江丰麻黄鸡		E	hold_or_exclude									commercial_exclude
+MH69	MH69	江丰麻黄鸡	XLC_MH	XLC204	Jasmine SV	exact_single_sample	MH69	江丰麻黄鸡	both	True	江丰麻黄鸡		E	hold_or_exclude									commercial_exclude
+MH70	MH70	江丰麻黄鸡	XLC_MH	XLC204	Jasmine SV	exact_single_sample	MH70	江丰麻黄鸡	both	True	江丰麻黄鸡		E	hold_or_exclude									commercial_exclude
+MH73	MH73	江丰麻黄鸡	XLC_MH	XLC204	Jasmine SV	exact_single_sample	MH73	江丰麻黄鸡	both	True	江丰麻黄鸡		E	hold_or_exclude									commercial_exclude
+MH74	MH74	江丰麻黄鸡	XLC_MH	XLC204	Jasmine SV	exact_single_sample	MH74	江丰麻黄鸡	both	True	江丰麻黄鸡		E	hold_or_exclude									commercial_exclude
+MH75	MH75	江丰麻黄鸡	XLC_MH	XLC204	Jasmine SV	exact_single_sample	MH75	江丰麻黄鸡	both	True	江丰麻黄鸡		E	hold_or_exclude									commercial_exclude
+MH76	MH76	江丰麻黄鸡	XLC_MH	XLC204	Jasmine SV	exact_single_sample	MH76	江丰麻黄鸡	both	True	江丰麻黄鸡		E	hold_or_exclude									commercial_exclude
+MH77	MH77	江丰麻黄鸡	XLC_MH	XLC204	Jasmine SV	exact_single_sample	MH77	江丰麻黄鸡	both	True	江丰麻黄鸡		E	hold_or_exclude									commercial_exclude
+MH78	MH78	江丰麻黄鸡	XLC_MH	XLC204	Jasmine SV	exact_single_sample	MH78	江丰麻黄鸡	both	True	江丰麻黄鸡		E	hold_or_exclude									commercial_exclude
+MH80	MH80	江丰麻黄鸡	XLC_MH	XLC204	Jasmine SV	exact_single_sample	MH80	江丰麻黄鸡	both	True	江丰麻黄鸡		E	hold_or_exclude									commercial_exclude
+MH96	MH96	江丰麻黄鸡	XLC_MH	XLC204	Jasmine SV	exact_single_sample	MH96	江丰麻黄鸡	both	True	江丰麻黄鸡		E	hold_or_exclude									commercial_exclude
+RJF-10	RJF-10	红原鸡	370_红原鸡	370_new	Jasmine SV	exact_single_sample	RJF-10	红原鸡（广西，亚种未定）	both	False	红原鸡		D	hold_or_exclude									no_complete_candidate_climate
+RJF-11	RJF-11	红原鸡	370_红原鸡	370_new	Jasmine SV	exact_single_sample	RJF-11	红原鸡（广西，亚种未定）	both	False	红原鸡		D	hold_or_exclude									no_complete_candidate_climate
+RJF-7	RJF-7	红原鸡	370_红原鸡	370_new	Jasmine SV	exact_single_sample	RJF-7	红原鸡（广西，亚种未定）	both	False	红原鸡		D	hold_or_exclude									no_complete_candidate_climate
+RJF-8	RJF-8	红原鸡	370_红原鸡	370_new	Jasmine SV	exact_single_sample	RJF-8	红原鸡（广西，亚种未定）	both	False	红原鸡		D	hold_or_exclude									no_complete_candidate_climate
+RJF-9	RJF-9	红原鸡	370_红原鸡	370_new	Jasmine SV	exact_single_sample	RJF-9	红原鸡（广西，亚种未定）	both	False	红原鸡		D	hold_or_exclude									no_complete_candidate_climate
+RS01	RS01	Ross308	370_Ross308	370_new	Jasmine SV	exact_single_sample	RS01	Ross308	both	True	Ross308		E	hold_or_exclude									commercial_exclude
+RS02	RS02	Ross308	370_Ross308	370_new	Jasmine SV	exact_single_sample	RS02	Ross308	both	True	Ross308		E	hold_or_exclude									commercial_exclude
+RS03	RS03	Ross308	370_Ross308	370_new	Jasmine SV	exact_single_sample	RS03	Ross308	both	True	Ross308		E	hold_or_exclude									commercial_exclude
+RS04	RS04	Ross308	370_Ross308	370_new	Jasmine SV	exact_single_sample	RS04	Ross308	both	True	Ross308		E	hold_or_exclude									commercial_exclude
+RS05	RS05	Ross308	370_Ross308	370_new	Jasmine SV	exact_single_sample	RS05	Ross308	both	True	Ross308		E	hold_or_exclude									commercial_exclude
+RS06	RS06	Ross308	370_Ross308	370_new	Jasmine SV	exact_single_sample	RS06	Ross308	both	True	Ross308		E	hold_or_exclude									commercial_exclude
+S-m1_I101	S-m1_I101	丝羽乌骨鸡	JXSY	caibo_new31	Jasmine SV	exact_single_sample	S-m1_I101		left_only	False	丝羽乌骨鸡		C	hold_or_exclude									no_complete_candidate_climate
+S-m3_I103	S-m3_I103	丝羽乌骨鸡	JXSY	caibo_new31	Jasmine SV	exact_single_sample	S-m3_I103		left_only	False	丝羽乌骨鸡		C	hold_or_exclude									no_complete_candidate_climate
+SRR12145461	SRR12145461	鲁西斗鸡	LX	master02	Jasmine SV	exact_single_sample	SRR12145461	鲁西斗鸡	both	True	鲁西斗鸡		C	hold_or_exclude									no_complete_candidate_climate
+SRR12145462	SRR12145462	鲁西斗鸡	LX	master02	Jasmine SV	exact_single_sample	SRR12145462	鲁西斗鸡	both	True	鲁西斗鸡		C	hold_or_exclude									no_complete_candidate_climate
+SRR12145463	SRR12145463	鲁西斗鸡	LX	master02	Jasmine SV	exact_single_sample	SRR12145463	鲁西斗鸡	both	True	鲁西斗鸡		C	hold_or_exclude									no_complete_candidate_climate
+SRR12145465	SRR12145465	鲁西斗鸡	LX	master02	Jasmine SV	exact_single_sample	SRR12145465	鲁西斗鸡	both	True	鲁西斗鸡		C	hold_or_exclude									no_complete_candidate_climate
+SRR12145467	SRR12145467	鲁西斗鸡	LX	master02	Jasmine SV	exact_single_sample	SRR12145467	鲁西斗鸡	both	True	鲁西斗鸡		C	hold_or_exclude									no_complete_candidate_climate
+SRR12145468	SRR12145468	鲁西斗鸡	LX	master02	Jasmine SV	exact_single_sample	SRR12145468	鲁西斗鸡	both	True	鲁西斗鸡		C	hold_or_exclude									no_complete_candidate_climate
+SRR12145471	SRR12145471	鲁西斗鸡	LX	master02	Jasmine SV	exact_single_sample	SRR12145471	鲁西斗鸡	both	True	鲁西斗鸡		C	hold_or_exclude									no_complete_candidate_climate
+SRR12868128	SRR12868128	红原鸡	370_红原鸡	370_new	Jasmine SV	exact_single_sample	SRR12868128	红原鸡（spadiceus）	both	False	红原鸡		D	hold_or_exclude									no_complete_candidate_climate
+SRR12868129	SRR12868129	红原鸡	370_红原鸡	370_new	Jasmine SV	exact_single_sample	SRR12868129	红原鸡（murghi）	both	False	红原鸡		D	hold_or_exclude									no_complete_candidate_climate
+SRR12868130	SRR12868130	红原鸡	370_红原鸡	370_new	Jasmine SV	exact_single_sample	SRR12868130	红原鸡（murghi）	both	False	红原鸡		D	hold_or_exclude									no_complete_candidate_climate
+SRR12868131	SRR12868131	红原鸡	370_红原鸡	370_new	Jasmine SV	exact_single_sample	SRR12868131	红原鸡（murghi）	both	False	红原鸡		D	hold_or_exclude									no_complete_candidate_climate
+SRR12868132	SRR12868132	红原鸡	370_红原鸡	370_new	Jasmine全SV（20261119补充）	exact_single_sample	SRR12868132	红原鸡（gallus）	both	False	红原鸡		D	hold_or_exclude									no_complete_candidate_climate
+SRR12868133	SRR12868133	红原鸡	370_红原鸡	370_new	Jasmine全SV（20261119补充）	exact_single_sample	SRR12868133	红原鸡（gallus）	both	False	红原鸡		D	hold_or_exclude									no_complete_candidate_climate
+SRR12868134	SRR12868134	红原鸡	370_红原鸡	370_new	Jasmine SV	exact_single_sample	SRR12868134	红原鸡（gallus）	both	False	红原鸡		D	hold_or_exclude									no_complete_candidate_climate
+SRR12868136	SRR12868136	绿原鸡	370_绿原鸡	370_new	Jasmine SV	exact_single_sample	SRR12868136	绿原鸡	both	True	绿原鸡		D	hold_or_exclude									no_complete_candidate_climate
+SRR12868137	SRR12868137	绿原鸡	370_绿原鸡	370_new	Jasmine SV	exact_single_sample	SRR12868137	绿原鸡	both	True	绿原鸡		D	hold_or_exclude									no_complete_candidate_climate
+SRR12868138	SRR12868138	灰原鸡	370_灰原鸡	370_new	Jasmine SV	exact_single_sample	SRR12868138	灰原鸡	both	True	灰原鸡		D	hold_or_exclude									no_complete_candidate_climate
+SRR12868139	SRR12868139	灰原鸡	370_灰原鸡	370_new	Jasmine SV	exact_single_sample	SRR12868139	灰原鸡	both	True	灰原鸡		D	hold_or_exclude									no_complete_candidate_climate
+SRR12868140	SRR12868140	灰原鸡	370_灰原鸡	370_new	Jasmine SV	exact_single_sample	SRR12868140	灰原鸡	both	True	灰原鸡		D	hold_or_exclude									no_complete_candidate_climate
+SRR12868141	SRR12868141	红原鸡	370_红原鸡	370_new	Jasmine SV	exact_single_sample	SRR12868141	红原鸡（gallus）	both	False	红原鸡		D	hold_or_exclude									no_complete_candidate_climate
+SRR12868142	SRR12868142	灰原鸡	370_灰原鸡	370_new	Jasmine SV	exact_single_sample	SRR12868142	灰原鸡	both	True	灰原鸡		D	hold_or_exclude									no_complete_candidate_climate
+SRR12868143	SRR12868143	灰原鸡	370_灰原鸡	370_new	Jasmine SV	exact_single_sample	SRR12868143	灰原鸡	both	True	灰原鸡		D	hold_or_exclude									no_complete_candidate_climate
+SRR12868144	SRR12868144	锡兰原鸡	370_锡兰原鸡	370_new	Jasmine SV	exact_single_sample	SRR12868144	锡兰原鸡	both	True	锡兰原鸡		D	hold_or_exclude									no_complete_candidate_climate
+SRR12868145	SRR12868145	锡兰原鸡	370_锡兰原鸡	370_new	Jasmine SV	exact_single_sample	SRR12868145	锡兰原鸡	both	True	锡兰原鸡		D	hold_or_exclude									no_complete_candidate_climate
+SRR12868146	SRR12868146	红原鸡	370_红原鸡	370_new	Jasmine SV	exact_single_sample	SRR12868146	红原鸡（spadiceus）	both	False	红原鸡		D	hold_or_exclude									no_complete_candidate_climate
+SRR12868147	SRR12868147	红原鸡	370_红原鸡	370_new	Jasmine SV	exact_single_sample	SRR12868147	红原鸡（spadiceus）	both	False	红原鸡		D	hold_or_exclude									no_complete_candidate_climate
+SRR12868148	SRR12868148	红原鸡	370_红原鸡	370_new	Jasmine SV	exact_single_sample	SRR12868148	红原鸡（spadiceus）	both	False	红原鸡		D	hold_or_exclude									no_complete_candidate_climate
+SRR12868149	SRR12868149	红原鸡	370_红原鸡	370_new	Jasmine SV	exact_single_sample	SRR12868149	红原鸡（spadiceus）	both	False	红原鸡		D	hold_or_exclude									no_complete_candidate_climate
+SRR12868150	SRR12868150	红原鸡	370_红原鸡	370_new	Jasmine SV	exact_single_sample	SRR12868150	红原鸡（spadiceus）	both	False	红原鸡		D	hold_or_exclude									no_complete_candidate_climate
+SRR12868151	SRR12868151	红原鸡	370_红原鸡	370_new	Jasmine SV	exact_single_sample	SRR12868151	红原鸡（spadiceus）	both	False	红原鸡		D	hold_or_exclude									no_complete_candidate_climate
+SRR12868152	SRR12868152	红原鸡	370_红原鸡	370_new	Jasmine SV	exact_single_sample	SRR12868152	红原鸡（bankiva）	both	False	红原鸡		D	hold_or_exclude									no_complete_candidate_climate
+SRR12868153	SRR12868153	红原鸡	370_红原鸡	370_new	Jasmine全SV（20261119补充）	exact_single_sample	SRR12868153	红原鸡（bankiva）	both	False	红原鸡		D	hold_or_exclude									no_complete_candidate_climate
+SRR16508416	SRR16508416	Cobb	370_Cobb	370_new	Jasmine SV	exact_single_sample	SRR16508416	Cobb	both	True	Cobb		E	hold_or_exclude									commercial_exclude
+SRR16508424	SRR16508424	Cobb	370_Cobb	370_new	Jasmine SV	exact_single_sample	SRR16508424	Cobb	both	True	Cobb		E	hold_or_exclude									commercial_exclude
+SRR16508425	SRR16508425	Cobb	370_Cobb	370_new	Jasmine SV	exact_single_sample	SRR16508425	Cobb	both	True	Cobb		E	hold_or_exclude									commercial_exclude
+SRR18363629	SRR18363629	绿壳蛋鸡	LK	master02	Jasmine SV	exact_single_sample	SRR18363629	绿壳蛋鸡	both	True	绿壳蛋鸡		D	hold_or_exclude									no_complete_candidate_climate
+SRR18363630	SRR18363630	绿壳蛋鸡	LK	master02	Jasmine SV	exact_single_sample	SRR18363630	绿壳蛋鸡	both	True	绿壳蛋鸡		D	hold_or_exclude									no_complete_candidate_climate
+SRR18363631	SRR18363631	绿壳蛋鸡	LK	master02	Jasmine SV	exact_single_sample	SRR18363631	绿壳蛋鸡	both	True	绿壳蛋鸡		D	hold_or_exclude									no_complete_candidate_climate
+SRR18363632	SRR18363632	绿壳蛋鸡	LK	master02	Jasmine SV	exact_single_sample	SRR18363632	绿壳蛋鸡	both	True	绿壳蛋鸡		D	hold_or_exclude									no_complete_candidate_climate
+SRR18363633	SRR18363633	绿壳蛋鸡	LK	master02	Jasmine SV	exact_single_sample	SRR18363633	绿壳蛋鸡	both	True	绿壳蛋鸡		D	hold_or_exclude									no_complete_candidate_climate
+SRR18363635	SRR18363635	绿壳蛋鸡	LK	master02	Jasmine SV	exact_single_sample	SRR18363635	绿壳蛋鸡	both	True	绿壳蛋鸡		D	hold_or_exclude									no_complete_candidate_climate
+SRR18363667	SRR18363667	绿壳蛋鸡	LK	master02	Jasmine SV	exact_single_sample	SRR18363667	绿壳蛋鸡	both	True	绿壳蛋鸡		D	hold_or_exclude									no_complete_candidate_climate
+SRR18363668	SRR18363668	绿壳蛋鸡	LK	master02	Jasmine SV	exact_single_sample	SRR18363668	绿壳蛋鸡	both	True	绿壳蛋鸡		D	hold_or_exclude									no_complete_candidate_climate
+SRR18363669	SRR18363669	绿壳蛋鸡	LK	master02	Jasmine SV	exact_single_sample	SRR18363669	绿壳蛋鸡	both	True	绿壳蛋鸡		D	hold_or_exclude									no_complete_candidate_climate
+SRR18363670	SRR18363670	绿壳蛋鸡	LK	master02	Jasmine SV	exact_single_sample	SRR18363670	绿壳蛋鸡	both	True	绿壳蛋鸡		D	hold_or_exclude									no_complete_candidate_climate
+SRR18363671	SRR18363671	绿壳蛋鸡	LK	master02	Jasmine SV	exact_single_sample	SRR18363671	绿壳蛋鸡	both	True	绿壳蛋鸡		D	hold_or_exclude									no_complete_candidate_climate
+SRR18363672	SRR18363672	绿壳蛋鸡	LK	master02	Jasmine SV	exact_single_sample	SRR18363672	绿壳蛋鸡	both	True	绿壳蛋鸡		D	hold_or_exclude									no_complete_candidate_climate
+SRR18363673	SRR18363673	绿壳蛋鸡	LK	master02	Jasmine SV	exact_single_sample	SRR18363673	绿壳蛋鸡	both	True	绿壳蛋鸡		D	hold_or_exclude									no_complete_candidate_climate
+SRR18363674	SRR18363674	绿壳蛋鸡	LK	master02	Jasmine SV	exact_single_sample	SRR18363674	绿壳蛋鸡	both	True	绿壳蛋鸡		D	hold_or_exclude									no_complete_candidate_climate
+SRR18363675	SRR18363675	绿壳蛋鸡	LK	master02	Jasmine SV	exact_single_sample	SRR18363675	绿壳蛋鸡	both	True	绿壳蛋鸡		D	hold_or_exclude									no_complete_candidate_climate
+SRR18363677	SRR18363677	绿壳蛋鸡	LK	master02	Jasmine SV	exact_single_sample	SRR18363677	绿壳蛋鸡	both	True	绿壳蛋鸡		D	hold_or_exclude									no_complete_candidate_climate
+SRR18363678	SRR18363678	绿壳蛋鸡	LK	master02	Jasmine SV	exact_single_sample	SRR18363678	绿壳蛋鸡	both	True	绿壳蛋鸡		D	hold_or_exclude									no_complete_candidate_climate
+SRR18363679	SRR18363679	绿壳蛋鸡	LK	master02	Jasmine SV	exact_single_sample	SRR18363679	绿壳蛋鸡	both	True	绿壳蛋鸡		D	hold_or_exclude									no_complete_candidate_climate
+SRR18363680	SRR18363680	绿壳蛋鸡	LK	master02	Jasmine SV	exact_single_sample	SRR18363680	绿壳蛋鸡	both	True	绿壳蛋鸡		D	hold_or_exclude									no_complete_candidate_climate
+SRR18363681	SRR18363681	绿壳蛋鸡	LK	master02	Jasmine SV	exact_single_sample	SRR18363681	绿壳蛋鸡	both	True	绿壳蛋鸡		D	hold_or_exclude									no_complete_candidate_climate
+SRR23815959	SRR23815959	芦花鸡	LH	master02	Jasmine SV	exact_single_sample	SRR23815959	芦花鸡	both	True	汶上芦花鸡	附录 B 旧主表第119行及20个SRR	C	hold_or_exclude									no_complete_candidate_climate
+SRR23815961	SRR23815961	芦花鸡	LH	master02	Jasmine SV	exact_single_sample	SRR23815961	芦花鸡	both	True	汶上芦花鸡	附录 B 旧主表第119行及20个SRR	C	hold_or_exclude									no_complete_candidate_climate
+SRR23815962	SRR23815962	江山白羽鸡	JSW	master02	Jasmine SV	exact_single_sample	SRR23815962	江山白羽鸡	both	True	江山白羽鸡		C	hold_or_exclude									no_complete_candidate_climate
+SRR23815963	SRR23815963	江山白羽鸡	JSW	master02	Jasmine SV	exact_single_sample	SRR23815963	江山白羽鸡	both	True	江山白羽鸡		C	hold_or_exclude									no_complete_candidate_climate
+SRR23815964	SRR23815964	江山白羽鸡	JSW	master02	Jasmine SV	exact_single_sample	SRR23815964	江山白羽鸡	both	True	江山白羽鸡		C	hold_or_exclude									no_complete_candidate_climate
+SRR23815965	SRR23815965	江山白羽鸡	JSW	master02	Jasmine SV	exact_single_sample	SRR23815965	江山白羽鸡	both	True	江山白羽鸡		C	hold_or_exclude									no_complete_candidate_climate
+SRR23815966	SRR23815966	江山白羽鸡	JSW	master02	Jasmine SV	exact_single_sample	SRR23815966	江山白羽鸡	both	True	江山白羽鸡		C	hold_or_exclude									no_complete_candidate_climate
+SRR23815967	SRR23815967	江山白羽鸡	JSW	master02	Jasmine SV	exact_single_sample	SRR23815967	江山白羽鸡	both	True	江山白羽鸡		C	hold_or_exclude									no_complete_candidate_climate
+SRR23815968	SRR23815968	江山白羽鸡	JSW	master02	Jasmine SV	exact_single_sample	SRR23815968	江山白羽鸡	both	True	江山白羽鸡		C	hold_or_exclude									no_complete_candidate_climate
+SRR23815969	SRR23815969	江山白羽鸡	JSW	master02	Jasmine SV	exact_single_sample	SRR23815969	江山白羽鸡	both	True	江山白羽鸡		C	hold_or_exclude									no_complete_candidate_climate
+SRR23815970	SRR23815970	江山白羽鸡	JSW	master02	Jasmine SV	exact_single_sample	SRR23815970	江山白羽鸡	both	True	江山白羽鸡		C	hold_or_exclude									no_complete_candidate_climate
+SRR23815972	SRR23815972	江山白羽鸡	JSW	master02	Jasmine SV	exact_single_sample	SRR23815972	江山白羽鸡	both	True	江山白羽鸡		C	hold_or_exclude									no_complete_candidate_climate
+SRR23815973	SRR23815973	江山白羽鸡	JSW	master02	Jasmine SV	exact_single_sample	SRR23815973	江山白羽鸡	both	True	江山白羽鸡		C	hold_or_exclude									no_complete_candidate_climate
+SRR23815974	SRR23815974	江山白羽鸡	JSW	master02	Jasmine SV	exact_single_sample	SRR23815974	江山白羽鸡	both	True	江山白羽鸡		C	hold_or_exclude									no_complete_candidate_climate
+SRR23815975	SRR23815975	江山白羽鸡	JSW	master02	Jasmine SV	exact_single_sample	SRR23815975	江山白羽鸡	both	True	江山白羽鸡		C	hold_or_exclude									no_complete_candidate_climate
+SRR23815976	SRR23815976	江山白羽鸡	JSW	master02	Jasmine SV	exact_single_sample	SRR23815976	江山白羽鸡	both	True	江山白羽鸡		C	hold_or_exclude									no_complete_candidate_climate
+SRR23815977	SRR23815977	江山白羽鸡	JSW	master02	Jasmine SV	exact_single_sample	SRR23815977	江山白羽鸡	both	True	江山白羽鸡		C	hold_or_exclude									no_complete_candidate_climate
+SRR23815978	SRR23815978	江山白羽鸡	JSW	master02	Jasmine SV	exact_single_sample	SRR23815978	江山白羽鸡	both	True	江山白羽鸡		C	hold_or_exclude									no_complete_candidate_climate
+SRR23815979	SRR23815979	江山白羽鸡	JSW	master02	Jasmine SV	exact_single_sample	SRR23815979	江山白羽鸡	both	True	江山白羽鸡		C	hold_or_exclude									no_complete_candidate_climate
+SRR23815980	SRR23815980	江山白羽鸡	JSW	master02	Jasmine SV	exact_single_sample	SRR23815980	江山白羽鸡	both	True	江山白羽鸡		C	hold_or_exclude									no_complete_candidate_climate
+SRR23815981	SRR23815981	江山白羽鸡	JSW	master02	Jasmine SV	exact_single_sample	SRR23815981	江山白羽鸡	both	True	江山白羽鸡		C	hold_or_exclude									no_complete_candidate_climate
+SRR23815983	SRR23815983	东乡黑鸡	DXB	master02	Jasmine SV	exact_single_sample	SRR23815983	东乡黑鸡	both	True	东乡黑鸡		C	hold_or_exclude									no_complete_candidate_climate
+SRR23815984	SRR23815984	东乡黑鸡	DXB	master02	Jasmine SV	exact_single_sample	SRR23815984	东乡黑鸡	both	True	东乡黑鸡		C	hold_or_exclude									no_complete_candidate_climate
+SRR23815985	SRR23815985	东乡黑鸡	DXB	master02	Jasmine SV	exact_single_sample	SRR23815985	东乡黑鸡	both	True	东乡黑鸡		C	hold_or_exclude									no_complete_candidate_climate
+SRR23815986	SRR23815986	东乡黑鸡	DXB	master02	Jasmine SV	exact_single_sample	SRR23815986	东乡黑鸡	both	True	东乡黑鸡		C	hold_or_exclude									no_complete_candidate_climate
+SRR23815987	SRR23815987	东乡黑鸡	DXB	master02	Jasmine SV	exact_single_sample	SRR23815987	东乡黑鸡	both	True	东乡黑鸡		C	hold_or_exclude									no_complete_candidate_climate
+SRR23815988	SRR23815988	东乡黑鸡	DXB	master02	Jasmine SV	exact_single_sample	SRR23815988	东乡黑鸡	both	True	东乡黑鸡		C	hold_or_exclude									no_complete_candidate_climate
+SRR23815989	SRR23815989	东乡黑鸡	DXB	master02	Jasmine SV	exact_single_sample	SRR23815989	东乡黑鸡	both	True	东乡黑鸡		C	hold_or_exclude									no_complete_candidate_climate
+SRR23815990	SRR23815990	东乡黑鸡	DXB	master02	Jasmine SV	exact_single_sample	SRR23815990	东乡黑鸡	both	True	东乡黑鸡		C	hold_or_exclude									no_complete_candidate_climate
+SRR23815991	SRR23815991	东乡黑鸡	DXB	master02	Jasmine SV	exact_single_sample	SRR23815991	东乡黑鸡	both	True	东乡黑鸡		C	hold_or_exclude									no_complete_candidate_climate
+SRR23815992	SRR23815992	东乡黑鸡	DXB	master02	Jasmine SV	exact_single_sample	SRR23815992	东乡黑鸡	both	True	东乡黑鸡		C	hold_or_exclude									no_complete_candidate_climate
+SRR23816012	SRR23816012	萧山鸡	XS	master02	Jasmine SV	exact_single_sample	SRR23816012	萧山鸡	both	True	萧山鸡		C	hold_or_exclude									no_complete_candidate_climate
+SRR23816013	SRR23816013	萧山鸡	XS	master02	Jasmine SV	exact_single_sample	SRR23816013	萧山鸡	both	True	萧山鸡		C	hold_or_exclude									no_complete_candidate_climate
+SRR23816014	SRR23816014	萧山鸡	XS	master02	Jasmine SV	exact_single_sample	SRR23816014	萧山鸡	both	True	萧山鸡		C	hold_or_exclude									no_complete_candidate_climate
+SRR23816015	SRR23816015	萧山鸡	XS	master02	Jasmine SV	exact_single_sample	SRR23816015	萧山鸡	both	True	萧山鸡		C	hold_or_exclude									no_complete_candidate_climate
+SRR23816016	SRR23816016	萧山鸡	XS	master02	Jasmine SV	exact_single_sample	SRR23816016	萧山鸡	both	True	萧山鸡		C	hold_or_exclude									no_complete_candidate_climate
+SRR23816017	SRR23816017	萧山鸡	XS	master02	Jasmine SV	exact_single_sample	SRR23816017	萧山鸡	both	True	萧山鸡		C	hold_or_exclude									no_complete_candidate_climate
+SRR23816018	SRR23816018	萧山鸡	XS	master02	Jasmine SV	exact_single_sample	SRR23816018	萧山鸡	both	True	萧山鸡		C	hold_or_exclude									no_complete_candidate_climate
+SRR23816019	SRR23816019	萧山鸡	XS	master02	Jasmine SV	exact_single_sample	SRR23816019	萧山鸡	both	True	萧山鸡		C	hold_or_exclude									no_complete_candidate_climate
+SRR23816020	SRR23816020	萧山鸡	XS	master02	Jasmine SV	exact_single_sample	SRR23816020	萧山鸡	both	True	萧山鸡		C	hold_or_exclude									no_complete_candidate_climate
+SRR23816021	SRR23816021	萧山鸡	XS	master02	Jasmine SV	exact_single_sample	SRR23816021	萧山鸡	both	True	萧山鸡		C	hold_or_exclude									no_complete_candidate_climate
+SRR23816023	SRR23816023	萧山鸡	XS	master02	Jasmine SV	exact_single_sample	SRR23816023	萧山鸡	both	True	萧山鸡		C	hold_or_exclude									no_complete_candidate_climate
+SRR23816024	SRR23816024	萧山鸡	XS	master02	Jasmine SV	exact_single_sample	SRR23816024	萧山鸡	both	True	萧山鸡		C	hold_or_exclude									no_complete_candidate_climate
+SRR23816025	SRR23816025	萧山鸡	XS	master02	Jasmine SV	exact_single_sample	SRR23816025	萧山鸡	both	True	萧山鸡		C	hold_or_exclude									no_complete_candidate_climate
+SRR23816026	SRR23816026	萧山鸡	XS	master02	Jasmine SV	exact_single_sample	SRR23816026	萧山鸡	both	True	萧山鸡		C	hold_or_exclude									no_complete_candidate_climate
+SRR23816027	SRR23816027	萧山鸡	XS	master02	Jasmine SV	exact_single_sample	SRR23816027	萧山鸡	both	True	萧山鸡		C	hold_or_exclude									no_complete_candidate_climate
+SRR23816028	SRR23816028	丝羽乌骨鸡	JXSY	master02	Jasmine SV	exact_single_sample	SRR23816028	丝羽乌骨鸡	both	True	丝羽乌骨鸡		C	hold_or_exclude									no_complete_candidate_climate
+SRR23816030	SRR23816030	龙游鸡	LY	master02	Jasmine SV	exact_single_sample	SRR23816030	龙游鸡	both	True	龙游鸡		C	hold_or_exclude									no_complete_candidate_climate
+SRR23816031	SRR23816031	龙游鸡	LY	master02	Jasmine SV	exact_single_sample	SRR23816031	龙游鸡	both	True	龙游鸡		C	hold_or_exclude									no_complete_candidate_climate
+SRR23816032	SRR23816032	龙游鸡	LY	master02	Jasmine SV	exact_single_sample	SRR23816032	龙游鸡	both	True	龙游鸡		C	hold_or_exclude									no_complete_candidate_climate
+SRR23816033	SRR23816033	龙游鸡	LY	master02	Jasmine SV	exact_single_sample	SRR23816033	龙游鸡	both	True	龙游鸡		C	hold_or_exclude									no_complete_candidate_climate
+SRR23816034	SRR23816034	龙游鸡	LY	master02	Jasmine SV	exact_single_sample	SRR23816034	龙游鸡	both	True	龙游鸡		C	hold_or_exclude									no_complete_candidate_climate
+SRR23816035	SRR23816035	龙游鸡	LY	master02	Jasmine SV	exact_single_sample	SRR23816035	龙游鸡	both	True	龙游鸡		C	hold_or_exclude									no_complete_candidate_climate
+SRR23816036	SRR23816036	龙游鸡	LY	master02	Jasmine SV	exact_single_sample	SRR23816036	龙游鸡	both	True	龙游鸡		C	hold_or_exclude									no_complete_candidate_climate
+SRR23816037	SRR23816037	龙游鸡	LY	master02	Jasmine SV	exact_single_sample	SRR23816037	龙游鸡	both	True	龙游鸡		C	hold_or_exclude									no_complete_candidate_climate
+SRR23816039	SRR23816039	龙游鸡	LY	master02	Jasmine SV	exact_single_sample	SRR23816039	龙游鸡	both	True	龙游鸡		C	hold_or_exclude									no_complete_candidate_climate
+SRR23816040	SRR23816040	芦花鸡	LH	master02	Jasmine SV	exact_single_sample	SRR23816040	芦花鸡	both	True	汶上芦花鸡	附录 B 旧主表第119行及20个SRR	C	hold_or_exclude									no_complete_candidate_climate
+SRR23816041	SRR23816041	芦花鸡	LH	master02	Jasmine SV	exact_single_sample	SRR23816041	芦花鸡	both	True	汶上芦花鸡	附录 B 旧主表第119行及20个SRR	C	hold_or_exclude									no_complete_candidate_climate
+SRR23816042	SRR23816042	芦花鸡	LH	master02	Jasmine SV	exact_single_sample	SRR23816042	芦花鸡	both	True	汶上芦花鸡	附录 B 旧主表第119行及20个SRR	C	hold_or_exclude									no_complete_candidate_climate
+SRR23816043	SRR23816043	芦花鸡	LH	master02	Jasmine SV	exact_single_sample	SRR23816043	芦花鸡	both	True	汶上芦花鸡	附录 B 旧主表第119行及20个SRR	C	hold_or_exclude									no_complete_candidate_climate
+SRR23816044	SRR23816044	芦花鸡	LH	master02	Jasmine SV	exact_single_sample	SRR23816044	芦花鸡	both	True	汶上芦花鸡	附录 B 旧主表第119行及20个SRR	C	hold_or_exclude									no_complete_candidate_climate
+SRR23816045	SRR23816045	芦花鸡	LH	master02	Jasmine SV	exact_single_sample	SRR23816045	芦花鸡	both	True	汶上芦花鸡	附录 B 旧主表第119行及20个SRR	C	hold_or_exclude									no_complete_candidate_climate
+SRR23816046	SRR23816046	芦花鸡	LH	master02	Jasmine SV	exact_single_sample	SRR23816046	芦花鸡	both	True	汶上芦花鸡	附录 B 旧主表第119行及20个SRR	C	hold_or_exclude									no_complete_candidate_climate
+SRR23816047	SRR23816047	芦花鸡	LH	master02	Jasmine SV	exact_single_sample	SRR23816047	芦花鸡	both	True	汶上芦花鸡	附录 B 旧主表第119行及20个SRR	C	hold_or_exclude									no_complete_candidate_climate
+SRR23816048	SRR23816048	芦花鸡	LH	master02	Jasmine SV	exact_single_sample	SRR23816048	芦花鸡	both	True	汶上芦花鸡	附录 B 旧主表第119行及20个SRR	C	hold_or_exclude									no_complete_candidate_climate
+SRR23816050	SRR23816050	芦花鸡	LH	master02	Jasmine SV	exact_single_sample	SRR23816050	芦花鸡	both	True	汶上芦花鸡	附录 B 旧主表第119行及20个SRR	C	hold_or_exclude									no_complete_candidate_climate
+SRR23816051	SRR23816051	芦花鸡	LH	master02	Jasmine SV	exact_single_sample	SRR23816051	芦花鸡	both	True	汶上芦花鸡	附录 B 旧主表第119行及20个SRR	C	hold_or_exclude									no_complete_candidate_climate
+SRR23816052	SRR23816052	芦花鸡	LH	master02	Jasmine SV	exact_single_sample	SRR23816052	芦花鸡	both	True	汶上芦花鸡	附录 B 旧主表第119行及20个SRR	C	hold_or_exclude									no_complete_candidate_climate
+SRR23816053	SRR23816053	芦花鸡	LH	master02	Jasmine SV	exact_single_sample	SRR23816053	芦花鸡	both	True	汶上芦花鸡	附录 B 旧主表第119行及20个SRR	C	hold_or_exclude									no_complete_candidate_climate
+SRR23816054	SRR23816054	芦花鸡	LH	master02	Jasmine SV	exact_single_sample	SRR23816054	芦花鸡	both	True	汶上芦花鸡	附录 B 旧主表第119行及20个SRR	C	hold_or_exclude									no_complete_candidate_climate
+SRR23816055	SRR23816055	芦花鸡	LH	master02	Jasmine SV	exact_single_sample	SRR23816055	芦花鸡	both	True	汶上芦花鸡	附录 B 旧主表第119行及20个SRR	C	hold_or_exclude									no_complete_candidate_climate
+SRR23816056	SRR23816056	芦花鸡	LH	master02	Jasmine SV	exact_single_sample	SRR23816056	芦花鸡	both	True	汶上芦花鸡	附录 B 旧主表第119行及20个SRR	C	hold_or_exclude									no_complete_candidate_climate
+SRR23816057	SRR23816057	芦花鸡	LH	master02	Jasmine SV	exact_single_sample	SRR23816057	芦花鸡	both	True	汶上芦花鸡	附录 B 旧主表第119行及20个SRR	C	hold_or_exclude									no_complete_candidate_climate
+SRR23816058	SRR23816058	芦花鸡	LH	master02	Jasmine SV	exact_single_sample	SRR23816058	芦花鸡	both	True	汶上芦花鸡	附录 B 旧主表第119行及20个SRR	C	hold_or_exclude									no_complete_candidate_climate
+SRR23816059	SRR23816059	萧山鸡	XS	master02	Jasmine SV	exact_single_sample	SRR23816059	萧山鸡	both	True	萧山鸡		C	hold_or_exclude									no_complete_candidate_climate
+SRR23816060	SRR23816060	萧山鸡	XS	master02	Jasmine SV	exact_single_sample	SRR23816060	萧山鸡	both	True	萧山鸡		C	hold_or_exclude									no_complete_candidate_climate
+SRR23816061	SRR23816061	萧山鸡	XS	master02	Jasmine SV	exact_single_sample	SRR23816061	萧山鸡	both	True	萧山鸡		C	hold_or_exclude									no_complete_candidate_climate
+SRR23816062	SRR23816062	萧山鸡	XS	master02	Jasmine SV	exact_single_sample	SRR23816062	萧山鸡	both	True	萧山鸡		C	hold_or_exclude									no_complete_candidate_climate
+SRR23816063	SRR23816063	萧山鸡	XS	master02	Jasmine SV	exact_single_sample	SRR23816063	萧山鸡	both	True	萧山鸡		C	hold_or_exclude									no_complete_candidate_climate
+SRR23816080	SRR23816080	温岭鸡	WL	master02	Jasmine SV	exact_single_sample	SRR23816080	温岭鸡	both	True	温岭鸡		C	hold_or_exclude									no_complete_candidate_climate
+SRR23816081	SRR23816081	温岭鸡	WL	master02	Jasmine SV	exact_single_sample	SRR23816081	温岭鸡	both	True	温岭鸡		C	hold_or_exclude									no_complete_candidate_climate
+SRR23816082	SRR23816082	温岭鸡	WL	master02	Jasmine SV	exact_single_sample	SRR23816082	温岭鸡	both	True	温岭鸡		C	hold_or_exclude									no_complete_candidate_climate
+SRR23816083	SRR23816083	温岭鸡	WL	master02	Jasmine SV	exact_single_sample	SRR23816083	温岭鸡	both	True	温岭鸡		C	hold_or_exclude									no_complete_candidate_climate
+SRR23816084	SRR23816084	温岭鸡	WL	master02	Jasmine SV	exact_single_sample	SRR23816084	温岭鸡	both	True	温岭鸡		C	hold_or_exclude									no_complete_candidate_climate
+SRR23816085	SRR23816085	温岭鸡	WL	master02	Jasmine SV	exact_single_sample	SRR23816085	温岭鸡	both	True	温岭鸡		C	hold_or_exclude									no_complete_candidate_climate
+SRR23816087	SRR23816087	温岭鸡	WL	master02	Jasmine SV	exact_single_sample	SRR23816087	温岭鸡	both	True	温岭鸡		C	hold_or_exclude									no_complete_candidate_climate
+SRR23816088	SRR23816088	温岭鸡	WL	master02	Jasmine SV	exact_single_sample	SRR23816088	温岭鸡	both	True	温岭鸡		C	hold_or_exclude									no_complete_candidate_climate
+SRR23816089	SRR23816089	温岭鸡	WL	master02	Jasmine SV	exact_single_sample	SRR23816089	温岭鸡	both	True	温岭鸡		C	hold_or_exclude									no_complete_candidate_climate
+SRR23816090	SRR23816090	温岭鸡	WL	master02	Jasmine SV	exact_single_sample	SRR23816090	温岭鸡	both	True	温岭鸡		C	hold_or_exclude									no_complete_candidate_climate
+SRR23816091	SRR23816091	温岭鸡	WL	master02	Jasmine SV	exact_single_sample	SRR23816091	温岭鸡	both	True	温岭鸡		C	hold_or_exclude									no_complete_candidate_climate
+SRR23816092	SRR23816092	温岭鸡	WL	master02	Jasmine SV	exact_single_sample	SRR23816092	温岭鸡	both	True	温岭鸡		C	hold_or_exclude									no_complete_candidate_climate
+SRR23816093	SRR23816093	温岭鸡	WL	master02	Jasmine SV	exact_single_sample	SRR23816093	温岭鸡	both	True	温岭鸡		C	hold_or_exclude									no_complete_candidate_climate
+SRR23816094	SRR23816094	温岭鸡	WL	master02	Jasmine SV	exact_single_sample	SRR23816094	温岭鸡	both	True	温岭鸡		C	hold_or_exclude									no_complete_candidate_climate
+SRR23816095	SRR23816095	温岭鸡	WL	master02	Jasmine SV	exact_single_sample	SRR23816095	温岭鸡	both	True	温岭鸡		C	hold_or_exclude									no_complete_candidate_climate
+SRR23816096	SRR23816096	温岭鸡	WL	master02	Jasmine SV	exact_single_sample	SRR23816096	温岭鸡	both	True	温岭鸡		C	hold_or_exclude									no_complete_candidate_climate
+SRR23816098	SRR23816098	温岭鸡	WL	master02	Jasmine SV	exact_single_sample	SRR23816098	温岭鸡	both	True	温岭鸡		C	hold_or_exclude									no_complete_candidate_climate
+SRR23816099	SRR23816099	温岭鸡	WL	master02	Jasmine SV	exact_single_sample	SRR23816099	温岭鸡	both	True	温岭鸡		C	hold_or_exclude									no_complete_candidate_climate
+SRR23816100	SRR23816100	温岭鸡	WL	master02	Jasmine SV	exact_single_sample	SRR23816100	温岭鸡	both	True	温岭鸡		C	hold_or_exclude									no_complete_candidate_climate
+SRR23816101	SRR23816101	温岭鸡	WL	master02	Jasmine SV	exact_single_sample	SRR23816101	温岭鸡	both	True	温岭鸡		C	hold_or_exclude									no_complete_candidate_climate
+SRR23816102	SRR23816102	松阳鸡	SYJ	master02	Jasmine SV	exact_single_sample	SRR23816102	松阳鸡	both	True	松阳鸡		C	hold_or_exclude									no_complete_candidate_climate
+SRR23816103	SRR23816103	松阳鸡	SYJ	master02	Jasmine SV	exact_single_sample	SRR23816103	松阳鸡	both	True	松阳鸡		C	hold_or_exclude									no_complete_candidate_climate
+SRR23816104	SRR23816104	松阳鸡	SYJ	master02	Jasmine SV	exact_single_sample	SRR23816104	松阳鸡	both	True	松阳鸡		C	hold_or_exclude									no_complete_candidate_climate
+SRR23816105	SRR23816105	松阳鸡	SYJ	master02	Jasmine SV	exact_single_sample	SRR23816105	松阳鸡	both	True	松阳鸡		C	hold_or_exclude									no_complete_candidate_climate
+SRR23816106	SRR23816106	松阳鸡	SYJ	master02	Jasmine SV	exact_single_sample	SRR23816106	松阳鸡	both	True	松阳鸡		C	hold_or_exclude									no_complete_candidate_climate
+SRR23816107	SRR23816107	松阳鸡	SYJ	master02	Jasmine SV	exact_single_sample	SRR23816107	松阳鸡	both	True	松阳鸡		C	hold_or_exclude									no_complete_candidate_climate
+SRR23816109	SRR23816109	松阳鸡	SYJ	master02	Jasmine SV	exact_single_sample	SRR23816109	松阳鸡	both	True	松阳鸡		C	hold_or_exclude									no_complete_candidate_climate
+SRR23816110	SRR23816110	松阳鸡	SYJ	master02	Jasmine SV	exact_single_sample	SRR23816110	松阳鸡	both	True	松阳鸡		C	hold_or_exclude									no_complete_candidate_climate
+SRR23816111	SRR23816111	松阳鸡	SYJ	master02	Jasmine SV	exact_single_sample	SRR23816111	松阳鸡	both	True	松阳鸡		C	hold_or_exclude									no_complete_candidate_climate
+SRR23816112	SRR23816112	松阳鸡	SYJ	master02	Jasmine SV	exact_single_sample	SRR23816112	松阳鸡	both	True	松阳鸡		C	hold_or_exclude									no_complete_candidate_climate
+SRR23816113	SRR23816113	松阳鸡	SYJ	master02	Jasmine SV	exact_single_sample	SRR23816113	松阳鸡	both	True	松阳鸡		C	hold_or_exclude									no_complete_candidate_climate
+SRR23816114	SRR23816114	松阳鸡	SYJ	master02	Jasmine SV	exact_single_sample	SRR23816114	松阳鸡	both	True	松阳鸡		C	hold_or_exclude									no_complete_candidate_climate
+SRR23816115	SRR23816115	松阳鸡	SYJ	master02	Jasmine SV	exact_single_sample	SRR23816115	松阳鸡	both	True	松阳鸡		C	hold_or_exclude									no_complete_candidate_climate
+SRR23816116	SRR23816116	松阳鸡	SYJ	master02	Jasmine SV	exact_single_sample	SRR23816116	松阳鸡	both	True	松阳鸡		C	hold_or_exclude									no_complete_candidate_climate
+SRR23816117	SRR23816117	松阳鸡	SYJ	master02	Jasmine SV	exact_single_sample	SRR23816117	松阳鸡	both	True	松阳鸡		C	hold_or_exclude									no_complete_candidate_climate
+SRR23816118	SRR23816118	松阳鸡	SYJ	master02	Jasmine SV	exact_single_sample	SRR23816118	松阳鸡	both	True	松阳鸡		C	hold_or_exclude									no_complete_candidate_climate
+SRR23816120	SRR23816120	松阳鸡	SYJ	master02	Jasmine SV	exact_single_sample	SRR23816120	松阳鸡	both	True	松阳鸡		C	hold_or_exclude									no_complete_candidate_climate
+SRR23816121	SRR23816121	丝羽乌骨鸡	JXSY	master02	Jasmine SV	exact_single_sample	SRR23816121	丝羽乌骨鸡	both	True	丝羽乌骨鸡		C	hold_or_exclude									no_complete_candidate_climate
+SRR23816122	SRR23816122	丝羽乌骨鸡	JXSY	master02	Jasmine SV	exact_single_sample	SRR23816122	丝羽乌骨鸡	both	True	丝羽乌骨鸡		C	hold_or_exclude									no_complete_candidate_climate
+SRR23816123	SRR23816123	丝羽乌骨鸡	JXSY	master02	Jasmine SV	exact_single_sample	SRR23816123	丝羽乌骨鸡	both	True	丝羽乌骨鸡		C	hold_or_exclude									no_complete_candidate_climate
+SRR23816124	SRR23816124	丝羽乌骨鸡	JXSY	master02	Jasmine SV	exact_single_sample	SRR23816124	丝羽乌骨鸡	both	True	丝羽乌骨鸡		C	hold_or_exclude									no_complete_candidate_climate
+SRR23816125	SRR23816125	丝羽乌骨鸡	JXSY	master02	Jasmine SV	exact_single_sample	SRR23816125	丝羽乌骨鸡	both	True	丝羽乌骨鸡		C	hold_or_exclude									no_complete_candidate_climate
+SRR23816126	SRR23816126	丝羽乌骨鸡	JXSY	master02	Jasmine SV	exact_single_sample	SRR23816126	丝羽乌骨鸡	both	True	丝羽乌骨鸡		C	hold_or_exclude									no_complete_candidate_climate
+SRR23816127	SRR23816127	丝羽乌骨鸡	JXSY	master02	Jasmine SV	exact_single_sample	SRR23816127	丝羽乌骨鸡	both	True	丝羽乌骨鸡		C	hold_or_exclude									no_complete_candidate_climate
+SRR23816128	SRR23816128	丝羽乌骨鸡	JXSY	master02	Jasmine SV	exact_single_sample	SRR23816128	丝羽乌骨鸡	both	True	丝羽乌骨鸡		C	hold_or_exclude									no_complete_candidate_climate
+SRR23816129	SRR23816129	东乡黑鸡	DXB	master02	Jasmine SV	exact_single_sample	SRR23816129	东乡黑鸡	both	True	东乡黑鸡		C	hold_or_exclude									no_complete_candidate_climate
+SRR23816130	SRR23816130	东乡黑鸡	DXB	master02	Jasmine SV	exact_single_sample	SRR23816130	东乡黑鸡	both	True	东乡黑鸡		C	hold_or_exclude									no_complete_candidate_climate
+SRR23816131	SRR23816131	东乡黑鸡	DXB	master02	Jasmine SV	exact_single_sample	SRR23816131	东乡黑鸡	both	True	东乡黑鸡		C	hold_or_exclude									no_complete_candidate_climate
+SRR23816132	SRR23816132	东乡黑鸡	DXB	master02	Jasmine SV	exact_single_sample	SRR23816132	东乡黑鸡	both	True	东乡黑鸡		C	hold_or_exclude									no_complete_candidate_climate
+SRR23816133	SRR23816133	东乡黑鸡	DXB	master02	Jasmine SV	exact_single_sample	SRR23816133	东乡黑鸡	both	True	东乡黑鸡		C	hold_or_exclude									no_complete_candidate_climate
+SRR23816134	SRR23816134	东乡黑鸡	DXB	master02	Jasmine SV	exact_single_sample	SRR23816134	东乡黑鸡	both	True	东乡黑鸡		C	hold_or_exclude									no_complete_candidate_climate
+SRR23816135	SRR23816135	东乡黑鸡	DXB	master02	Jasmine SV	exact_single_sample	SRR23816135	东乡黑鸡	both	True	东乡黑鸡		C	hold_or_exclude									no_complete_candidate_climate
+SRR23816136	SRR23816136	东乡黑鸡	DXB	master02	Jasmine SV	exact_single_sample	SRR23816136	东乡黑鸡	both	True	东乡黑鸡		C	hold_or_exclude									no_complete_candidate_climate
+SRR23816137	SRR23816137	东乡黑鸡	DXB	master02	Jasmine SV	exact_single_sample	SRR23816137	东乡黑鸡	both	True	东乡黑鸡		C	hold_or_exclude									no_complete_candidate_climate
+SRR23816138	SRR23816138	东乡黑鸡	DXB	master02	Jasmine SV	exact_single_sample	SRR23816138	东乡黑鸡	both	True	东乡黑鸡		C	hold_or_exclude									no_complete_candidate_climate
+SRR23816149	SRR23816149	雁荡鸡	YD	master02	Jasmine SV	exact_single_sample	SRR23816149	雁荡鸡	both	True	雁荡鸡		C	hold_or_exclude									no_complete_candidate_climate
+SRR23816150	SRR23816150	雁荡鸡	YD	master02	Jasmine SV	exact_single_sample	SRR23816150	雁荡鸡	both	True	雁荡鸡		C	hold_or_exclude									no_complete_candidate_climate
+SRR23816151	SRR23816151	雁荡鸡	YD	master02	Jasmine SV	exact_single_sample	SRR23816151	雁荡鸡	both	True	雁荡鸡		C	hold_or_exclude									no_complete_candidate_climate
+SRR23816152	SRR23816152	雁荡鸡	YD	master02	Jasmine SV	exact_single_sample	SRR23816152	雁荡鸡	both	True	雁荡鸡		C	hold_or_exclude									no_complete_candidate_climate
+SRR23816153	SRR23816153	雁荡鸡	YD	master02	Jasmine SV	exact_single_sample	SRR23816153	雁荡鸡	both	True	雁荡鸡		C	hold_or_exclude									no_complete_candidate_climate
+SRR23816154	SRR23816154	雁荡鸡	YD	master02	Jasmine SV	exact_single_sample	SRR23816154	雁荡鸡	both	True	雁荡鸡		C	hold_or_exclude									no_complete_candidate_climate
+SRR23816155	SRR23816155	雁荡鸡	YD	master02	Jasmine SV	exact_single_sample	SRR23816155	雁荡鸡	both	True	雁荡鸡		C	hold_or_exclude									no_complete_candidate_climate
+SRR23816156	SRR23816156	雁荡鸡	YD	master02	Jasmine SV	exact_single_sample	SRR23816156	雁荡鸡	both	True	雁荡鸡		C	hold_or_exclude									no_complete_candidate_climate
+SRR23816157	SRR23816157	雁荡鸡	YD	master02	Jasmine SV	exact_single_sample	SRR23816157	雁荡鸡	both	True	雁荡鸡		C	hold_or_exclude									no_complete_candidate_climate
+SRR23816160	SRR23816160	雁荡鸡	YD	master02	Jasmine SV	exact_single_sample	SRR23816160	雁荡鸡	both	True	雁荡鸡		C	hold_or_exclude									no_complete_candidate_climate
+SRR23816164	SRR23816164	丝羽乌骨鸡	JXSY	master02	Jasmine SV	exact_single_sample	SRR23816164	丝羽乌骨鸡	both	True	丝羽乌骨鸡		C	hold_or_exclude									no_complete_candidate_climate
+SRR23936578	SRR23936578	四川天府肉鸡	TF	master01	Jasmine SV	exact_single_sample	SRR23936578	四川天府肉鸡	both	True	四川天府肉鸡		E	hold_or_exclude									commercial_exclude
+SRR23936813	SRR23936813	四川天府肉鸡	TF	master01	Jasmine SV	exact_single_sample	SRR23936813	四川天府肉鸡	both	True	四川天府肉鸡		E	hold_or_exclude									commercial_exclude
+SRR24608367	SRR24608367	大军鸡	OS	master02	Jasmine SV	exact_single_sample	SRR24608367	大军鸡	both	True	大军鸡		D	hold_or_exclude									no_complete_candidate_climate
+SRR24608368	SRR24608368	大军鸡	OS	master02	Jasmine SV	exact_single_sample	SRR24608368	大军鸡	both	True	大军鸡		D	hold_or_exclude									no_complete_candidate_climate
+SRR24608369	SRR24608369	大军鸡	OS	master02	Jasmine SV	exact_single_sample	SRR24608369	大军鸡	both	True	大军鸡		D	hold_or_exclude									no_complete_candidate_climate
+SRR24608375	SRR24608375	大军鸡	OS	master02	Jasmine SV	exact_single_sample	SRR24608375	大军鸡	both	True	大军鸡		D	hold_or_exclude									no_complete_candidate_climate
+SRR24608376	SRR24608376	大军鸡	OS	master02	Jasmine SV	exact_single_sample	SRR24608376	大军鸡	both	True	大军鸡		D	hold_or_exclude									no_complete_candidate_climate
+SRR24608401	SRR24608401	大村斗鸡	PC	master01	Jasmine SV	exact_single_sample	SRR24608401	大村斗鸡	both	True	大村斗鸡		D	hold_or_exclude									no_complete_candidate_climate
+SRR24608415	SRR24608415	大军鸡	OS	master02	Jasmine SV	exact_single_sample	SRR24608415	大军鸡	both	True	大军鸡		D	hold_or_exclude									no_complete_candidate_climate
+SRR24608416	SRR24608416	大军鸡	OS	master02	Jasmine SV	exact_single_sample	SRR24608416	大军鸡	both	True	大军鸡		D	hold_or_exclude									no_complete_candidate_climate
+SRR24608420	SRR24608420	大军鸡	OS	master02	Jasmine SV	exact_single_sample	SRR24608420	大军鸡	both	True	大军鸡		D	hold_or_exclude									no_complete_candidate_climate
+SRR24608421	SRR24608421	大军鸡	OS	master02	Jasmine SV	exact_single_sample	SRR24608421	大军鸡	both	True	大军鸡		D	hold_or_exclude									no_complete_candidate_climate
+SRR24608428	SRR24608428	大军鸡	OS	master02	Jasmine SV	exact_single_sample	SRR24608428	大军鸡	both	True	大军鸡		D	hold_or_exclude									no_complete_candidate_climate
+SRR24608429	SRR24608429	大军鸡	OS	master02	Jasmine SV	exact_single_sample	SRR24608429	大军鸡	both	True	大军鸡		D	hold_or_exclude									no_complete_candidate_climate
+SRR24608430	SRR24608430	大军鸡	OS	master02	Jasmine SV	exact_single_sample	SRR24608430	大军鸡	both	True	大军鸡		D	hold_or_exclude									no_complete_candidate_climate
+SRR24608451	SRR24608451	大村斗鸡	PC	master01	Jasmine SV	exact_single_sample	SRR24608451	大村斗鸡	both	True	大村斗鸡		D	hold_or_exclude									no_complete_candidate_climate
+SRR24608465	SRR24608465	大军鸡	OS	master02	Jasmine SV	exact_single_sample	SRR24608465	大军鸡	both	True	大军鸡		D	hold_or_exclude									no_complete_candidate_climate
+SRR24608466	SRR24608466	大军鸡	OS	master02	Jasmine SV	exact_single_sample	SRR24608466	大军鸡	both	True	大军鸡		D	hold_or_exclude									no_complete_candidate_climate
+SRR24608469	SRR24608469	大村斗鸡	PC	master01	Jasmine SV	exact_single_sample	SRR24608469	大村斗鸡	both	True	大村斗鸡		D	hold_or_exclude									no_complete_candidate_climate
+SRR34471166	SRR34471166	静原鸡	JY	master02	Jasmine SV	exact_single_sample	SRR34471166	静原鸡	both	True	静原鸡		D	hold_or_exclude									no_complete_candidate_climate
+SRR34471169	SRR34471169	静原鸡	JY	master02	Jasmine SV	exact_single_sample	SRR34471169	静原鸡	both	True	静原鸡		D	hold_or_exclude									no_complete_candidate_climate
+SRR34471196	SRR34471196	静原鸡	JY	master02	Jasmine SV	exact_single_sample	SRR34471196	静原鸡	both	True	静原鸡		D	hold_or_exclude									no_complete_candidate_climate
+SRR34471204	SRR34471204	静原鸡	JY	master02	Jasmine SV	exact_single_sample	SRR34471204	静原鸡	both	True	静原鸡		D	hold_or_exclude									no_complete_candidate_climate
+SRR34471205	SRR34471205	静原鸡	JY	master02	Jasmine SV	exact_single_sample	SRR34471205	静原鸡	both	True	静原鸡		D	hold_or_exclude									no_complete_candidate_climate
+SRR34471206	SRR34471206	静原鸡	JY	master02	Jasmine SV	exact_single_sample	SRR34471206	静原鸡	both	True	静原鸡		D	hold_or_exclude									no_complete_candidate_climate
+SRR34471207	SRR34471207	静原鸡	JY	master02	Jasmine SV	exact_single_sample	SRR34471207	静原鸡	both	True	静原鸡		D	hold_or_exclude									no_complete_candidate_climate
+SRR34471208	SRR34471208	静原鸡	JY	master02	Jasmine SV	exact_single_sample	SRR34471208	静原鸡	both	True	静原鸡		D	hold_or_exclude									no_complete_candidate_climate
+SRR34471210	SRR34471210	静原鸡	JY	master02	Jasmine SV	exact_single_sample	SRR34471210	静原鸡	both	True	静原鸡		D	hold_or_exclude									no_complete_candidate_climate
+SRR34471230	SRR34471230	静原鸡	JY	master02	Jasmine SV	exact_single_sample	SRR34471230	静原鸡	both	True	静原鸡		D	hold_or_exclude									no_complete_candidate_climate
+SRR34471232	SRR34471232	静原鸡	JY	master02	Jasmine SV	exact_single_sample	SRR34471232	静原鸡	both	True	静原鸡		D	hold_or_exclude									no_complete_candidate_climate
+SRR34471233	SRR34471233	静原鸡	JY	master02	Jasmine SV	exact_single_sample	SRR34471233	静原鸡	both	True	静原鸡		D	hold_or_exclude									no_complete_candidate_climate
+SRR34471247	SRR34471247	静原鸡	JY	master02	Jasmine SV	exact_single_sample	SRR34471247	静原鸡	both	True	静原鸡		D	hold_or_exclude									no_complete_candidate_climate
+SRR34471263	SRR34471263	静原鸡	JY	master02	Jasmine SV	exact_single_sample	SRR34471263	静原鸡	both	True	静原鸡		D	hold_or_exclude									no_complete_candidate_climate
+SRR34471288	SRR34471288	静原鸡	JY	master02	Jasmine SV	exact_single_sample	SRR34471288	静原鸡	both	True	静原鸡		D	hold_or_exclude									no_complete_candidate_climate
+SRR34471293	SRR34471293	静原鸡	JY	master02	Jasmine SV	exact_single_sample	SRR34471293	静原鸡	both	True	静原鸡		D	hold_or_exclude									no_complete_candidate_climate
+SRR34471294	SRR34471294	静原鸡	JY	master02	Jasmine SV	exact_single_sample	SRR34471294	静原鸡	both	True	静原鸡		D	hold_or_exclude									no_complete_candidate_climate
+SRR34471303	SRR34471303	静原鸡	JY	master02	Jasmine SV	exact_single_sample	SRR34471303	静原鸡	both	True	静原鸡		D	hold_or_exclude									no_complete_candidate_climate
+SRR34471304	SRR34471304	静原鸡	JY	master02	Jasmine SV	exact_single_sample	SRR34471304	静原鸡	both	True	静原鸡		D	hold_or_exclude									no_complete_candidate_climate
+SRR34471305	SRR34471305	静原鸡	JY	master02	Jasmine SV	exact_single_sample	SRR34471305	静原鸡	both	True	静原鸡		D	hold_or_exclude									no_complete_candidate_climate
+SRR7613951	SRR7613951	宁都黄鸡	NDH	master02	Jasmine SV	exact_single_sample	SRR7613951	宁都黄鸡	both	True	宁都黄鸡		C	hold_or_exclude									no_complete_candidate_climate
+SRR7613952	SRR7613952	宁都黄鸡	NDH	master02	Jasmine SV	exact_single_sample	SRR7613952	宁都黄鸡	both	True	宁都黄鸡		C	hold_or_exclude									no_complete_candidate_climate
+SRR7613953	SRR7613953	宁都黄鸡	NDH	master02	Jasmine SV	exact_single_sample	SRR7613953	宁都黄鸡	both	True	宁都黄鸡		C	hold_or_exclude									no_complete_candidate_climate
+SRR7613954	SRR7613954	宁都黄鸡	NDH	master02	Jasmine SV	exact_single_sample	SRR7613954	宁都黄鸡	both	True	宁都黄鸡		C	hold_or_exclude									no_complete_candidate_climate
+SRR7613955	SRR7613955	宁都黄鸡	NDH	master02	Jasmine SV	exact_single_sample	SRR7613955	宁都黄鸡	both	True	宁都黄鸡		C	hold_or_exclude									no_complete_candidate_climate
+SRR7613956	SRR7613956	宁都黄鸡	NDH	master02	Jasmine SV	exact_single_sample	SRR7613956	宁都黄鸡	both	True	宁都黄鸡		C	hold_or_exclude									no_complete_candidate_climate
+SRR7613957	SRR7613957	宁都黄鸡	NDH	master02	Jasmine SV	exact_single_sample	SRR7613957	宁都黄鸡	both	True	宁都黄鸡		C	hold_or_exclude									no_complete_candidate_climate
+SRR7613958	SRR7613958	宁都黄鸡	NDH	master02	Jasmine SV	exact_single_sample	SRR7613958	宁都黄鸡	both	True	宁都黄鸡		C	hold_or_exclude									no_complete_candidate_climate
+SRR7613959	SRR7613959	宁都黄鸡	NDH	master02	Jasmine SV	exact_single_sample	SRR7613959	宁都黄鸡	both	True	宁都黄鸡		C	hold_or_exclude									no_complete_candidate_climate
+SRR7613960	SRR7613960	宁都黄鸡	NDH	master02	Jasmine SV	exact_single_sample	SRR7613960	宁都黄鸡	both	True	宁都黄鸡		C	hold_or_exclude									no_complete_candidate_climate
+SRR8362941	SRR8362941	绿原鸡	370_绿原鸡	370_new	Jasmine SV	exact_single_sample	SRR8362941	绿原鸡	both	True	绿原鸡		D	hold_or_exclude									no_complete_candidate_climate
+SRR8362942	SRR8362942	绿原鸡	370_绿原鸡	370_new	Jasmine SV	exact_single_sample	SRR8362942	绿原鸡	both	True	绿原鸡		D	hold_or_exclude									no_complete_candidate_climate
+SRR8362945	SRR8362945	锡兰原鸡	370_锡兰原鸡	370_new	Jasmine SV	exact_single_sample	SRR8362945	锡兰原鸡	both	True	锡兰原鸡		D	hold_or_exclude									no_complete_candidate_climate
+SRR8362946	SRR8362946	灰原鸡	370_灰原鸡	370_new	Jasmine SV	exact_single_sample	SRR8362946	灰原鸡	both	True	灰原鸡		D	hold_or_exclude									no_complete_candidate_climate
+SRR8362947	SRR8362947	锡兰原鸡	370_锡兰原鸡	370_new	Jasmine SV	exact_single_sample	SRR8362947	锡兰原鸡	both	True	锡兰原鸡		D	hold_or_exclude									no_complete_candidate_climate
+SRR8362952	SRR8362952	灰原鸡	370_灰原鸡	370_new	Jasmine SV	exact_single_sample	SRR8362952	灰原鸡	both	True	灰原鸡		D	hold_or_exclude									no_complete_candidate_climate
+SRR8362954	SRR8362954	锡兰原鸡	370_锡兰原鸡	370_new	Jasmine SV	exact_single_sample	SRR8362954	锡兰原鸡	both	True	锡兰原鸡		D	hold_or_exclude									no_complete_candidate_climate
+SRR9671953	SRR9671953	白洛克	370_白洛克	370_new	Jasmine SV	exact_single_sample	SRR9671953	白洛克	both	True	白洛克		D	hold_or_exclude									no_complete_candidate_climate
+SRR9671954	SRR9671954	白洛克	370_白洛克	370_new	Jasmine SV	exact_single_sample	SRR9671954	白洛克	both	True	白洛克		D	hold_or_exclude									no_complete_candidate_climate
+SRR9671955	SRR9671955	白洛克	370_白洛克	370_new	Jasmine SV	exact_single_sample	SRR9671955	白洛克	both	True	白洛克		D	hold_or_exclude									no_complete_candidate_climate
+SRR9671956	SRR9671956	白洛克	370_白洛克	370_new	Jasmine SV	exact_single_sample	SRR9671956	白洛克	both	True	白洛克		D	hold_or_exclude									no_complete_candidate_climate
+SRR9671961	SRR9671961	白洛克	370_白洛克	370_new	Jasmine SV	exact_single_sample	SRR9671961	白洛克	both	True	白洛克		D	hold_or_exclude									no_complete_candidate_climate
+SRR9671963	SRR9671963	白洛克	370_白洛克	370_new	Jasmine SV	exact_single_sample	SRR9671963	白洛克	both	True	白洛克		D	hold_or_exclude									no_complete_candidate_climate
+SRR9671967	SRR9671967	白洛克	370_白洛克	370_new	Jasmine SV	exact_single_sample	SRR9671967	白洛克	both	True	白洛克		D	hold_or_exclude									no_complete_candidate_climate
+SRR9671968	SRR9671968	白洛克	370_白洛克	370_new	Jasmine SV	exact_single_sample	SRR9671968	白洛克	both	True	白洛克		D	hold_or_exclude									no_complete_candidate_climate
+SRR9671971	SRR9671971	白洛克	370_白洛克	370_new	Jasmine SV	exact_single_sample	SRR9671971	白洛克	both	True	白洛克		D	hold_or_exclude									no_complete_candidate_climate
+SRR9671973	SRR9671973	白洛克	370_白洛克	370_new	Jasmine SV	exact_single_sample	SRR9671973	白洛克	both	True	白洛克		D	hold_or_exclude									no_complete_candidate_climate
+SRR9671974	SRR9671974	白洛克	370_白洛克	370_new	Jasmine SV	exact_single_sample	SRR9671974	白洛克	both	True	白洛克		D	hold_or_exclude									no_complete_candidate_climate
+SRR9671975	SRR9671975	白洛克	370_白洛克	370_new	Jasmine SV	exact_single_sample	SRR9671975	白洛克	both	True	白洛克		D	hold_or_exclude									no_complete_candidate_climate
+SRR9671979	SRR9671979	白洛克	370_白洛克	370_new	Jasmine SV	exact_single_sample	SRR9671979	白洛克	both	True	白洛克		D	hold_or_exclude									no_complete_candidate_climate
+SRR9671980	SRR9671980	白洛克	370_白洛克	370_new	Jasmine SV	exact_single_sample	SRR9671980	白洛克	both	True	白洛克		D	hold_or_exclude									no_complete_candidate_climate
+SRR9671994	SRR9671994	白洛克	370_白洛克	370_new	Jasmine SV	exact_single_sample	SRR9671994	白洛克	both	True	白洛克		D	hold_or_exclude									no_complete_candidate_climate
+SRR9671995	SRR9671995	白洛克	370_白洛克	370_new	Jasmine SV	exact_single_sample	SRR9671995	白洛克	both	True	白洛克		D	hold_or_exclude									no_complete_candidate_climate
+SRR9671996	SRR9671996	白洛克	370_白洛克	370_new	Jasmine SV	exact_single_sample	SRR9671996	白洛克	both	True	白洛克		D	hold_or_exclude									no_complete_candidate_climate
+SRR9671997	SRR9671997	白洛克	370_白洛克	370_new	Jasmine SV	exact_single_sample	SRR9671997	白洛克	both	True	白洛克		D	hold_or_exclude									no_complete_candidate_climate
+SRR9671998	SRR9671998	白洛克	370_白洛克	370_new	Jasmine SV	exact_single_sample	SRR9671998	白洛克	both	True	白洛克		D	hold_or_exclude									no_complete_candidate_climate
+SRR9671999	SRR9671999	白洛克	370_白洛克	370_new	Jasmine SV	exact_single_sample	SRR9671999	白洛克	both	True	白洛克		D	hold_or_exclude									no_complete_candidate_climate
+SRR9672000	SRR9672000	白洛克	370_白洛克	370_new	Jasmine SV	exact_single_sample	SRR9672000	白洛克	both	True	白洛克		D	hold_or_exclude									no_complete_candidate_climate
+SRR9672001	SRR9672001	白洛克	370_白洛克	370_new	Jasmine SV	exact_single_sample	SRR9672001	白洛克	both	True	白洛克		D	hold_or_exclude									no_complete_candidate_climate
+SRR9672010	SRR9672010	白洛克	370_白洛克	370_new	Jasmine SV	exact_single_sample	SRR9672010	白洛克	both	True	白洛克		D	hold_or_exclude									no_complete_candidate_climate
+SRR9672013	SRR9672013	白洛克	370_白洛克	370_new	Jasmine SV	exact_single_sample	SRR9672013	白洛克	both	True	白洛克		D	hold_or_exclude									no_complete_candidate_climate
+SRR9672014	SRR9672014	白洛克	370_白洛克	370_new	Jasmine SV	exact_single_sample	SRR9672014	白洛克	both	True	白洛克		D	hold_or_exclude									no_complete_candidate_climate
+SRR9672015	SRR9672015	白洛克	370_白洛克	370_new	Jasmine SV	exact_single_sample	SRR9672015	白洛克	both	True	白洛克		D	hold_or_exclude									no_complete_candidate_climate
+SRR9672016	SRR9672016	白洛克	370_白洛克	370_new	Jasmine SV	exact_single_sample	SRR9672016	白洛克	both	True	白洛克		D	hold_or_exclude									no_complete_candidate_climate
+SRR9672017	SRR9672017	白洛克	370_白洛克	370_new	Jasmine SV	exact_single_sample	SRR9672017	白洛克	both	True	白洛克		D	hold_or_exclude									no_complete_candidate_climate
+WWR1	WWR1	白洛克	370_白洛克	370_new	Jasmine SV	exact_single_sample	WWR1	白洛克	both	True	白洛克		D	hold_or_exclude									no_complete_candidate_climate
+WWR2	WWR2	白洛克	370_白洛克	370_new	Jasmine SV	exact_single_sample	WWR2	白洛克	both	True	白洛克		D	hold_or_exclude									no_complete_candidate_climate
+WWR3	WWR3	白洛克	370_白洛克	370_new	Jasmine SV	exact_single_sample	WWR3	白洛克	both	True	白洛克		D	hold_or_exclude									no_complete_candidate_climate
+WWR4	WWR4	白洛克	370_白洛克	370_new	Jasmine SV	exact_single_sample	WWR4	白洛克	both	True	白洛克		D	hold_or_exclude									no_complete_candidate_climate
+WWR5	WWR5	白洛克	370_白洛克	370_new	Jasmine SV	exact_single_sample	WWR5	白洛克	both	True	白洛克		D	hold_or_exclude									no_complete_candidate_climate
+WWR6	WWR6	白洛克	370_白洛克	370_new	Jasmine SV	exact_single_sample	WWR6	白洛克	both	True	白洛克		D	hold_or_exclude									no_complete_candidate_climate
+XB42	XB42	温氏小白鸡	370_温氏小白鸡	370_new;XLC204	Jasmine SV	exact_single_sample	XB42	温氏小白鸡	both	True	温氏小白鸡		E	hold_or_exclude									commercial_exclude
+XB44	XB44	温氏小白鸡	370_温氏小白鸡	370_new;XLC204	Jasmine SV	exact_single_sample	XB44	温氏小白鸡	both	True	温氏小白鸡		E	hold_or_exclude									commercial_exclude
+XB45	XB45	温氏小白鸡	370_温氏小白鸡	370_new;XLC204	Jasmine SV	exact_single_sample	XB45	温氏小白鸡	both	True	温氏小白鸡		E	hold_or_exclude									commercial_exclude
+XB46	XB46	温氏小白鸡	370_温氏小白鸡	370_new;XLC204	Jasmine SV	exact_single_sample	XB46	温氏小白鸡	both	True	温氏小白鸡		E	hold_or_exclude									commercial_exclude
+XB47	XB47	温氏小白鸡	370_温氏小白鸡	370_new;XLC204	Jasmine SV	exact_single_sample	XB47	温氏小白鸡	both	True	温氏小白鸡		E	hold_or_exclude									commercial_exclude
+XB48	XB48	温氏小白鸡	370_温氏小白鸡	370_new;XLC204	Jasmine SV	exact_single_sample	XB48	温氏小白鸡	both	True	温氏小白鸡		E	hold_or_exclude									commercial_exclude
+XB50	XB50	温氏小白鸡	370_温氏小白鸡	370_new;XLC204	Jasmine SV	exact_single_sample	XB50	温氏小白鸡	both	True	温氏小白鸡		E	hold_or_exclude									commercial_exclude
+XB51	XB51	温氏小白鸡	370_温氏小白鸡	370_new;XLC204	Jasmine SV	exact_single_sample	XB51	温氏小白鸡	both	True	温氏小白鸡		E	hold_or_exclude									commercial_exclude
+XB52	XB52	温氏小白鸡	370_温氏小白鸡	370_new;XLC204	Jasmine SV	exact_single_sample	XB52	温氏小白鸡	both	True	温氏小白鸡		E	hold_or_exclude									commercial_exclude
+XB53	XB53	温氏小白鸡	370_温氏小白鸡	370_new;XLC204	Jasmine SV	exact_single_sample	XB53	温氏小白鸡	both	True	温氏小白鸡		E	hold_or_exclude									commercial_exclude
+XB54	XB54	温氏小白鸡	370_温氏小白鸡	370_new;XLC204	Jasmine SV	exact_single_sample	XB54	温氏小白鸡	both	True	温氏小白鸡		E	hold_or_exclude									commercial_exclude
+XB55	XB55	温氏小白鸡	370_温氏小白鸡	370_new;XLC204	Jasmine SV	exact_single_sample	XB55	温氏小白鸡	both	True	温氏小白鸡		E	hold_or_exclude									commercial_exclude
+XB56	XB56	温氏小白鸡	370_温氏小白鸡	370_new;XLC204	Jasmine SV	exact_single_sample	XB56	温氏小白鸡	both	True	温氏小白鸡		E	hold_or_exclude									commercial_exclude
+XB57	XB57	温氏小白鸡	370_温氏小白鸡	370_new;XLC204	Jasmine SV	exact_single_sample	XB57	温氏小白鸡	both	True	温氏小白鸡		E	hold_or_exclude									commercial_exclude
+XB58	XB58	温氏小白鸡	370_温氏小白鸡	370_new;XLC204	Jasmine SV	exact_single_sample	XB58	温氏小白鸡	both	True	温氏小白鸡		E	hold_or_exclude									commercial_exclude
+XB59	XB59	温氏小白鸡	370_温氏小白鸡	370_new;XLC204	Jasmine SV	exact_single_sample	XB59	温氏小白鸡	both	True	温氏小白鸡		E	hold_or_exclude									commercial_exclude
+XB60	XB60	温氏小白鸡	370_温氏小白鸡	370_new;XLC204	Jasmine SV	exact_single_sample	XB60	温氏小白鸡	both	True	温氏小白鸡		E	hold_or_exclude									commercial_exclude
+XB92	XB92	温氏小白鸡	370_温氏小白鸡	370_new;XLC204	Jasmine SV	exact_single_sample	XB92	温氏小白鸡	both	True	温氏小白鸡		E	hold_or_exclude									commercial_exclude
+XB98	XB98	温氏小白鸡	370_温氏小白鸡	370_new;XLC204	Jasmine SV	exact_single_sample	XB98	温氏小白鸡	both	True	温氏小白鸡		E	hold_or_exclude									commercial_exclude
+Y1-m2_L4_I122	Y1-m2_L4_I122	北京油鸡	BJY	caibo_new31	Jasmine SV	exact_single_sample	Y1-m2_L4_I122		left_only	False	北京油鸡		A	representative_point_review_needed_per_batch	116.3967	40.0184	True	28.4746704	134.424637	414	2.25833328	172.740162	pending_batch_or_origin_verification
+Y1-m4_I124	Y1-m4_I124	北京油鸡	BJY	caibo_new31	Jasmine SV	exact_single_sample	Y1-m4_I124		left_only	False	北京油鸡		A	representative_point_review_needed_per_batch	116.3967	40.0184	True	28.4746704	134.424637	414	2.25833328	172.740162	pending_batch_or_origin_verification
+YI11	YI11	广西瑶鸡	370_广西瑶鸡	370_new	Jasmine SV	exact_single_sample	YI11	广西瑶鸡	both	True	广西瑶鸡		D	hold_or_exclude									no_complete_candidate_climate
+YI12	YI12	广西瑶鸡	370_广西瑶鸡	370_new	Jasmine SV	exact_single_sample	YI12	广西瑶鸡	both	True	广西瑶鸡		D	hold_or_exclude									no_complete_candidate_climate
+YI13	YI13	广西瑶鸡	370_广西瑶鸡	370_new	Jasmine SV	exact_single_sample	YI13	广西瑶鸡	both	True	广西瑶鸡		D	hold_or_exclude									no_complete_candidate_climate
+YJ1	YJ1	广西瑶鸡	370_广西瑶鸡	370_new	Jasmine SV	exact_single_sample	YJ1	广西瑶鸡	both	True	广西瑶鸡		D	hold_or_exclude									no_complete_candidate_climate
+YJ10	YJ10	广西瑶鸡	370_广西瑶鸡	370_new	Jasmine SV	exact_single_sample	YJ10	广西瑶鸡	both	True	广西瑶鸡		D	hold_or_exclude									no_complete_candidate_climate
+YJ2	YJ2	广西瑶鸡	370_广西瑶鸡	370_new	Jasmine SV	exact_single_sample	YJ2	广西瑶鸡	both	True	广西瑶鸡		D	hold_or_exclude									no_complete_candidate_climate
+YJ3	YJ3	广西瑶鸡	370_广西瑶鸡	370_new	Jasmine SV	exact_single_sample	YJ3	广西瑶鸡	both	True	广西瑶鸡		D	hold_or_exclude									no_complete_candidate_climate
+YJ4	YJ4	广西瑶鸡	370_广西瑶鸡	370_new	Jasmine SV	exact_single_sample	YJ4	广西瑶鸡	both	True	广西瑶鸡		D	hold_or_exclude									no_complete_candidate_climate
+YJ7	YJ7	广西瑶鸡	370_广西瑶鸡	370_new	Jasmine SV	exact_single_sample	YJ7	广西瑶鸡	both	True	广西瑶鸡		D	hold_or_exclude									no_complete_candidate_climate
+YJ9	YJ9	广西瑶鸡	370_广西瑶鸡	370_new	Jasmine SV	exact_single_sample	YJ9	广西瑶鸡	both	True	广西瑶鸡		D	hold_or_exclude									no_complete_candidate_climate
+ZJ1	ZJ1	藏鸡	XLC_ZJ	XLC204	Jasmine SV	exact_single_sample	ZJ1	藏鸡	both	True	藏鸡		D	hold_or_exclude									no_complete_candidate_climate
+ZJ10	ZJ10	藏鸡	XLC_ZJ	XLC204	Jasmine SV	exact_single_sample	ZJ10	藏鸡	both	True	藏鸡		D	hold_or_exclude									no_complete_candidate_climate
+ZJ11	ZJ11	藏鸡	XLC_ZJ	XLC204	Jasmine SV	exact_single_sample	ZJ11	藏鸡	both	True	藏鸡		D	hold_or_exclude									no_complete_candidate_climate
+ZJ12	ZJ12	藏鸡	XLC_ZJ	XLC204	Jasmine SV	exact_single_sample	ZJ12	藏鸡	both	True	藏鸡		D	hold_or_exclude									no_complete_candidate_climate
+ZJ13	ZJ13	藏鸡	XLC_ZJ	XLC204	Jasmine SV	exact_single_sample	ZJ13	藏鸡	both	True	藏鸡		D	hold_or_exclude									no_complete_candidate_climate
+ZJ14	ZJ14	藏鸡	XLC_ZJ	XLC204	Jasmine SV	exact_single_sample	ZJ14	藏鸡	both	True	藏鸡		D	hold_or_exclude									no_complete_candidate_climate
+ZJ15	ZJ15	藏鸡	XLC_ZJ	XLC204	Jasmine SV	exact_single_sample	ZJ15	藏鸡	both	True	藏鸡		D	hold_or_exclude									no_complete_candidate_climate
+ZJ16	ZJ16	藏鸡	XLC_ZJ	XLC204	Jasmine SV	exact_single_sample	ZJ16	藏鸡	both	True	藏鸡		D	hold_or_exclude									no_complete_candidate_climate
+ZJ17	ZJ17	藏鸡	XLC_ZJ	XLC204	Jasmine SV	exact_single_sample	ZJ17	藏鸡	both	True	藏鸡		D	hold_or_exclude									no_complete_candidate_climate
+ZJ18	ZJ18	藏鸡	XLC_ZJ	XLC204	Jasmine SV	exact_single_sample	ZJ18	藏鸡	both	True	藏鸡		D	hold_or_exclude									no_complete_candidate_climate
+ZJ19	ZJ19	藏鸡	XLC_ZJ	XLC204	Jasmine SV	exact_single_sample	ZJ19	藏鸡	both	True	藏鸡		D	hold_or_exclude									no_complete_candidate_climate
+ZJ2	ZJ2	藏鸡	XLC_ZJ	XLC204	Jasmine SV	exact_single_sample	ZJ2	藏鸡	both	True	藏鸡		D	hold_or_exclude									no_complete_candidate_climate
+ZJ20	ZJ20	藏鸡	XLC_ZJ	XLC204	Jasmine SV	exact_single_sample	ZJ20	藏鸡	both	True	藏鸡		D	hold_or_exclude									no_complete_candidate_climate
+ZJ3	ZJ3	藏鸡	XLC_ZJ	XLC204	Jasmine SV	exact_single_sample	ZJ3	藏鸡	both	True	藏鸡		D	hold_or_exclude									no_complete_candidate_climate
+ZJ4	ZJ4	藏鸡	XLC_ZJ	XLC204	Jasmine SV	exact_single_sample	ZJ4	藏鸡	both	True	藏鸡		D	hold_or_exclude									no_complete_candidate_climate
+ZJ5	ZJ5	藏鸡	XLC_ZJ	XLC204	Jasmine SV	exact_single_sample	ZJ5	藏鸡	both	True	藏鸡		D	hold_or_exclude									no_complete_candidate_climate
+ZJ6	ZJ6	藏鸡	XLC_ZJ	XLC204	Jasmine SV	exact_single_sample	ZJ6	藏鸡	both	True	藏鸡		D	hold_or_exclude									no_complete_candidate_climate
+ZJ7	ZJ7	藏鸡	XLC_ZJ	XLC204	Jasmine SV	exact_single_sample	ZJ7	藏鸡	both	True	藏鸡		D	hold_or_exclude									no_complete_candidate_climate
+ZJ8	ZJ8	藏鸡	XLC_ZJ	XLC204	Jasmine SV	exact_single_sample	ZJ8	藏鸡	both	True	藏鸡		D	hold_or_exclude									no_complete_candidate_climate
+ZJ9	ZJ9	藏鸡	XLC_ZJ	XLC204	Jasmine SV	exact_single_sample	ZJ9	藏鸡	both	True	藏鸡		D	hold_or_exclude									no_complete_candidate_climate

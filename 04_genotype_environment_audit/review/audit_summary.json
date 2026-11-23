@@ -1,0 +1,41 @@
+{
+  "latest_inventory_unique": 1732,
+  "prior_registry_unique": 1726,
+  "inventory_vs_previous": {
+    "both": 1726,
+    "left_only": 6
+  },
+  "raw_breed_label_differences_among_shared_ids": 21,
+  "vcf_header_status": {
+    "exact_single_sample": 1732
+  },
+  "origin_evidence_by_tier": {
+    "A": 19,
+    "B": 47,
+    "C": 11,
+    "D": 13,
+    "E": 7,
+    "U": 1
+  },
+  "representative_points_with_complete_climate": 66,
+  "candidate_individuals_with_complete_climate": 1189,
+  "individual_environment_review": {
+    "pending_batch_or_origin_verification": 1189,
+    "no_complete_candidate_climate": 405,
+    "commercial_exclude": 112,
+    "identity_conflict_hold": 10,
+    "library_type_hold": 16
+  },
+  "historical_bcf_header_n": 565,
+  "historical_environment_n": 405,
+  "historical_env_ids_absent_from_bcf": [],
+  "historical_environment_groups": 25,
+  "source_sha256": {
+    "inventory": "8f93b410132c4a1f06dd5c3b7d3b6bfe65e4607a7b01a8a7b5e8784d8e2b29a9",
+    "registry": "2a38bd526ed6e9651520462ac6382ab2ce1e996ca520a84383f77e684bccb973",
+    "origin_review": "32a8a1434fe4402849dc60ac893917138a9d90dee44caecb55d1b037b46d1498",
+    "breed_crosswalk": "9e3ab6dfb932ae3a87739953922e14f2517b83815df6680226911e8b5d5c2a8d",
+    "historical_samples": "e97f81b69b63731cde4e246fe09b63cc2b7efb5563d84c696e801dbae835e086"
+  },
+  "scope": "VCF header identity and preliminary environment review; cohort approval pending."
+}
